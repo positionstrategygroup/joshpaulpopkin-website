@@ -1,0 +1,14 @@
+{
+  "name": "joshpaulpopkin",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "deploy": "node build.js && wrangler deploy && node scripts/indexnow.js",
+    "dev": "node build.js && wrangler dev"
+  },
+  "dependencies": {
+    "image-size": "^2.0.4",
+    "marked": "^18.0.13"
+  }
+}

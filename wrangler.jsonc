@@ -11,9 +11,8 @@
     "not_found_handling": "404-page",
     "run_worker_first": true
   },
-  "triggers": { "crons": ["5 * * * *"] },
-  "routes": [
-    { "pattern": "joshpaulpopkin.com", "custom_domain": true },
-    { "pattern": "www.joshpaulpopkin.com", "custom_domain": true }
-  ]
+  "triggers": { "crons": ["5 * * * *"] }
+  // Custom domains removed 2026-09-18: the domain is served DNS-only from GitHub Pages
+  // (gh-pages branch) because Wix's Cloudflare-for-SaaS hostname claim outranks a proxied
+  // record on this zone. workers.dev stays on as a preview. See README.
 }

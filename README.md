@@ -1,6 +1,10 @@
 # joshpaulpopkin.com
 
-Josh Paul Popkin's personal site (moved off Wix 2026-09-18; 56 articles carried over with their original URLs). Static article site. Build = `build.js`, hosting = Cloudflare Worker with static assets (`wrangler.jsonc`), domain attached as a Worker custom domain (apex + www; the apex redirects to www because Google indexed the www URLs on Wix). Listing lives at `/blog`; `/articles/` redirects there.
+Josh Paul Popkin's personal site (moved off Wix 2026-09-18; 56 articles carried over with their original URLs). Static article site. Build = `build.js`.
+
+**Hosting (as of 2026-09-18):** GitHub Pages, from the `gh-pages` branch of `positionstrategygroup/joshpaulpopkin-website`, with DNS-only records in the Cloudflare zone (same pattern as joshpopkin.com). `npm run deploy` builds and force-pushes `/public` to `gh-pages`, then pings IndexNow. The Cloudflare Worker (`wrangler.jsonc`, `npm run deploy:worker`) still exists at https://joshpaulpopkin.positionstrategy.workers.dev as a noindexed preview; it lost its custom domains on purpose: Wix served this domain through Cloudflare for SaaS, and a provider's custom hostname outranks a proxied record in the owner's own zone, so a proxied setup kept serving Wix's 404 page. DNS-only records to GitHub bypass the Cloudflare proxy entirely. If Wix's hostname claim is ever confirmed gone, the Worker + custom domains route can be restored (`routes` block in wrangler.jsonc, then `wrangler deploy`).
+
+URL shape: articles at `/post/<slug>` (no trailing slash, exactly what Wix used), listing at `/blog`, canonical host `www`. GitHub Pages redirects the apex to www by itself when both records exist.
 
 ## Post an article
 

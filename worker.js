@@ -54,6 +54,7 @@ export async function handle(request, env, now = Date.now()) {
 
   const res = await env.ASSETS.fetch(new Request(fetchUrl, request));
   const h = new Headers(res.headers);
+  if (url.hostname.endsWith('.workers.dev')) h.set('x-robots-tag', 'noindex');
   h.set('x-content-type-options', 'nosniff');
   h.set('referrer-policy', 'strict-origin-when-cross-origin');
   if (/\.(jpg|jpeg|png|webp|avif|svg|css|js|woff2?)$/i.test(url.pathname)) {

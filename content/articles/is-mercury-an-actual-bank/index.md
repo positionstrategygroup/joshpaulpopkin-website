@@ -3,7 +3,7 @@ title: "Is Mercury An Actual Bank?"
 dek: "What Mercury reveals about the changing economics of business banking"
 kicker: "Business"
 date: 2026-05-25
-image: is-mercury-an-actual-bank-1.png
+image: is-mercury-an-actual-bank-1.jpg
 image_alt: "Is Mercury An Actual Bank?"
 tags: ["Business"]
 description: "What Mercury reveals about the changing economics of business banking"

@@ -3,7 +3,7 @@ title: "Fools Focus on Features; Exceptional Sales Start with Emotions"
 dek: "How four premium gym brands failed the discovery phase by assuming they knew what a high-intent buyer wanted."
 kicker: "Sales"
 date: 2026-06-09
-image: fools-focus-on-features-exceptional-sales-start-with-emotions-1.png
+image: fools-focus-on-features-exceptional-sales-start-with-emotions-1.jpg
 image_alt: "Fools Focus on Features; Exceptional Sales Start with Emotions"
 tags: ["Sales"]
 description: "How four premium gym brands failed the discovery phase by assuming they knew what a high-intent buyer wanted."

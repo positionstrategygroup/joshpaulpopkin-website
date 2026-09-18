@@ -3,7 +3,7 @@ title: "Who Are You Betting Against?"
 dek: "If you're participating in prediction markets like Kalshi or Polymarket, it's easy to assume you're competing against friends or other retail users online."
 kicker: "Business"
 date: 2026-06-22
-image: who-are-you-betting-against-1.png
+image: who-are-you-betting-against-1.jpg
 image_alt: "Who Are You Betting Against?"
 tags: ["Business"]
 description: "If you're participating in prediction markets like Kalshi or Polymarket, it's easy to assume you're competing against friends or other retail users online."

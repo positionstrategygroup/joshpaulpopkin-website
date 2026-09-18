@@ -3,8 +3,8 @@ title: "Why Great Fintech Feels Invisible"
 dek: "What Revolut reveals about the evolution from financial app to global infrastructure layer."
 kicker: "Fintech"
 date: 2026-05-13
-image: why-great-fintech-feels-invisible-1.png
-image_alt: "Why Great Fintech Feels Invisible"
+image: why-great-fintech-feels-invisible-card.jpg
+image_alt: "Josh Popkin, with the title Invisible Fintech"
 tags: ["Fintech"]
 description: "What Revolut reveals about the evolution from financial app to global infrastructure layer."
 wix_url: https://www.joshpaulpopkin.com/post/why-great-fintech-feels-invisible

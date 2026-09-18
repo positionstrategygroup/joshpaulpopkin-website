@@ -3,7 +3,7 @@ title: "Mastercard’s BitLicense Approval: A Strategic Bet on the Future of Pay
 dek: "Mastercard’s recent approval for a New York State Department of Financial Services (NYDFS) BitLicense is more than a regulatory milestone—it is a signal of where the future of global payments is heading."
 kicker: "Payments"
 date: 2026-06-14
-image: mastercard-s-bitlicense-approval-a-strategic-bet-on-the-future-of-payments-1.png
+image: mastercard-s-bitlicense-approval-a-strategic-bet-on-the-future-of-payments-1.jpg
 image_alt: "Mastercard’s BitLicense Approval: A Strategic Bet on the Future of Payments"
 tags: ["Payments"]
 description: "Mastercard’s recent approval for a New York State Department of Financial Services (NYDFS) BitLicense is more than a regulatory milestone—it is a signal…"

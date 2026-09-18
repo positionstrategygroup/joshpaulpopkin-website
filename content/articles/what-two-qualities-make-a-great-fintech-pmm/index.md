@@ -3,7 +3,7 @@ title: "What Separates Good PMMs from Bad"
 dek: "Recently, I had the privilege of talking to an incredibly sharp Product Manager at Coinbase."
 kicker: "Fintech"
 date: 2026-05-26
-image: what-two-qualities-make-a-great-fintech-pmm-1.png
+image: what-two-qualities-make-a-great-fintech-pmm-1.jpg
 image_alt: "What Separates Good PMMs from Bad"
 tags: ["Fintech", "Product Marketing"]
 description: "Recently, I had the privilege of talking to an incredibly sharp Product Manager at Coinbase."

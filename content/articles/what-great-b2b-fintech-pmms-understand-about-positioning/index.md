@@ -3,7 +3,7 @@ title: "What Great B2B Fintech PMMs Understand About Positioning"
 dek: "I recently finished reading Obviously Awesome by April Dunford, and one idea stood out above everything else..."
 kicker: "Fintech"
 date: 2026-05-14
-image: what-great-b2b-fintech-pmms-understand-about-positioning-1.png
+image: what-great-b2b-fintech-pmms-understand-about-positioning-1.jpg
 image_alt: "What Great B2B Fintech PMMs Understand About Positioning"
 tags: ["Fintech", "Positioning", "Product Marketing"]
 description: "I recently finished reading Obviously Awesome by April Dunford, and one idea stood out above everything else..."

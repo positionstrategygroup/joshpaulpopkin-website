@@ -3,15 +3,13 @@ title: "How Did Westport Family Homes Improve Its Visibility in AI Search?"
 dek: "In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear example of the kind of…"
 kicker: "AI Search"
 date: 2026-08-18
-image: how-did-westport-family-homes-improve-its-visibility-in-ai-search-2.jpg
-image_alt: "How Did Westport Family Homes Improve Its Visibility in AI Search?"
+image: how-did-westport-family-homes-improve-its-visibility-in-ai-s-card.jpg
+image_alt: "Josh Popkin, with the title Westport Family Homes"
 tags: ["AI Search", "AI"]
 description: "In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear…"
 wix_url: https://www.joshpaulpopkin.com/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search
 faq: true
 ---
-![How Did Westport Family Homes Improve Its Visibility in AI Search?](how-did-westport-family-homes-improve-its-visibility-in-ai-search-1.jpg)
-
 In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear example of the kind of measurable AI-visibility gain Position Strategy Group builds its work around. Using enterprise-grade tracking to monitor performance in the Homebuilding category on ChatGPT within the United States, Westport Family Homes' visibility climbed from 17.0% to 24.0% between mid-July and mid-August 2026, with citation coverage rising from 16.5% to 23.7% over the same period.
 
 ### What Actually Changed for Westport Family Homes?

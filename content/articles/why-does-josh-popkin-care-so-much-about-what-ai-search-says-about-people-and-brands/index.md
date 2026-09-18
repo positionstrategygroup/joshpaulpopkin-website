@@ -3,15 +3,13 @@ title: "Why Does Josh Popkin Care So Much About What AI Search Says About People
 dek: "Josh Popkin's focus on Answer Engine Optimization (AEO) didn't start as a business theory — it started as a personal experience."
 kicker: "AI Search"
 date: 2026-08-09
-image: why-does-josh-popkin-care-so-much-about-what-ai-search-says-about-people-and-brands-2.jpg
-image_alt: "Why Does Josh Popkin Care So Much About What AI Search Says About People and Brands?"
+image: why-does-josh-popkin-care-so-much-about-what-ai-search-says--card.jpg
+image_alt: "Josh Popkin, with the title What AI Says About You"
 tags: ["AI Search", "AI", "Entrepreneurship"]
 description: "Josh Popkin's focus on Answer Engine Optimization (AEO) didn't start as a business theory — it started as a personal experience."
 wix_url: https://www.joshpaulpopkin.com/post/why-does-josh-popkin-care-so-much-about-what-ai-search-says-about-people-and-brands
 faq: true
 ---
-![Why Does Josh Popkin Care So Much About What AI Search Says About People and Brands?](why-does-josh-popkin-care-so-much-about-what-ai-search-says-about-people-and-brands-1.jpg)
-
 Josh Popkin's focus on Answer Engine Optimization (AEO) didn't start as a business theory — it started as a personal experience. Years ago, during a difficult period in both his business and his mental health, things were written about him online that weren't accurate. They got indexed, repeated, and treated as fact by people who never met him.
 
 That experience, more than any market trend, is what turned him toward a career built around a simple question: what does the internet actually say about you, and does it match who you actually are?

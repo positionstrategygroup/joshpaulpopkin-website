@@ -4,7 +4,7 @@ dek: "Once upon a time, there was a bear with a big heart."
 kicker: "Business"
 date: 2026-05-12
 updated: 2026-05-18
-image: the-bear-who-cares-1.png
+image: the-bear-who-cares-1.jpg
 image_alt: "The Bear Who Cares"
 tags: ["Business"]
 description: "Once upon a time, there was a bear with a big heart."

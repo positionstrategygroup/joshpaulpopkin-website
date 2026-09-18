@@ -4,7 +4,7 @@ dek: "I was riding the Metro-North from Connecticut back to New York today and c
 kicker: "Business"
 date: 2026-06-17
 updated: 2026-06-18
-image: don-t-sell-the-feature-sell-the-position-2.png
+image: don-t-sell-the-feature-sell-the-position-1.jpg
 image_alt: "Don't Sell the Feature; Sell The Position"
 tags: ["Business"]
 description: "I was riding the Metro-North from Connecticut back to New York today and came across a train ad that perfectly highlights a massive marketing mistake."
@@ -12,8 +12,6 @@ wix_url: https://www.joshpaulpopkin.com/post/don-t-sell-the-feature-sell-the-pos
 faq: true
 ---
 Written by Josh Paul Popkin. Published June 17, 2026.
-
-![Don't Sell the Feature; Sell The Position](don-t-sell-the-feature-sell-the-position-1.png)
 
 I was riding the Metro-North from Connecticut back to New York today and came across a train ad that perfectly highlights a massive marketing mistake.
 

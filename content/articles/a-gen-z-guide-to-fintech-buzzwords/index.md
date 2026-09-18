@@ -4,8 +4,8 @@ dek: "Financial literacy matters more for Gen Z than almost any generation."
 kicker: "Fintech"
 date: 2026-05-13
 updated: 2026-05-18
-image: a-gen-z-guide-to-fintech-buzzwords-1.png
-image_alt: "A Gen-Z Guide to Fintech Buzzwords"
+image: a-gen-z-guide-to-fintech-buzzwords-card.jpg
+image_alt: "Josh Popkin, with the title Fintech Buzzwords"
 tags: ["Fintech"]
 description: "Financial literacy matters more for Gen Z than almost any generation."
 wix_url: https://www.joshpaulpopkin.com/post/a-gen-z-guide-to-fintech-buzzwords

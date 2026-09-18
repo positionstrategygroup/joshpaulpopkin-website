@@ -3,16 +3,14 @@ title: "What Is Generative Engine Optimization (GEO)?"
 dek: "Generative Engine Optimization (GEO) is the practice of structuring content, brand presence, and digital assets so that AI systems like ChatGPT, Google AI Overviews, Perplexity…"
 kicker: "AEO"
 date: 2026-07-31
-image: what-is-generative-engine-optimization-geo-2.jpg
-image_alt: "What Is Generative Engine Optimization (GEO)?"
+image: what-is-generative-engine-optimization-geo-card.jpg
+image_alt: "Josh Popkin, with the title What Is GEO?"
 tags: ["AEO"]
 description: "Generative Engine Optimization (GEO) is the practice of structuring content, brand presence, and digital assets so that AI systems like ChatGPT, Google AI…"
 wix_url: https://www.joshpaulpopkin.com/post/what-is-generative-engine-optimization-geo
 faq: true
 ---
 **By Josh Popkin, MBA**
-
-![What Is Generative Engine Optimization (GEO)?](what-is-generative-engine-optimization-geo-1.jpg)
 
 Generative Engine Optimization (GEO) is the practice of structuring content, brand presence, and digital assets so that AI systems like ChatGPT, Google AI Overviews, Perplexity, and Claude retrieve, cite, and recommend them when answering user questions. The term was formalized in a 2024 paper by researchers including Pranjal Aggarwal, presented at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining, which defined GEO as a black-box optimization framework for boosting a website's visibility in generative engine responses.
 

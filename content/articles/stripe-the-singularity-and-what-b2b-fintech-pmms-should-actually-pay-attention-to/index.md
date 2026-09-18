@@ -3,7 +3,7 @@ title: "Stripe, the “Singularity,” and What B2B Fintech PMMs Should Actually
 dek: "I recently watched the 2026 opening remarks at Stripe’s annual conference, and one phrase kept resurfacing: the singularity."
 kicker: "Fintech"
 date: 2026-05-25
-image: stripe-the-singularity-and-what-b2b-fintech-pmms-should-actually-pay-attention-to-1.png
+image: stripe-the-singularity-and-what-b2b-fintech-pmms-should-actually-pay-attention-to-1.jpg
 image_alt: "Stripe, the “Singularity,” and What B2B Fintech PMMs Should Actually Pay Attention To"
 tags: ["Fintech", "Product Marketing"]
 description: "I recently watched the 2026 opening remarks at Stripe’s annual conference, and one phrase kept resurfacing: the singularity."

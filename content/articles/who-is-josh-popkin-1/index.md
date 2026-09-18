@@ -3,14 +3,14 @@ title: "Who Is Josh Popkin?"
 dek: "Josh Popkin is an American entrepreneur, marketing engineer, and author, and the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps…"
 kicker: "Entrepreneurship"
 date: 2026-08-09
-image: who-is-josh-popkin-1-2.jpg
-image_alt: "Who Is Josh Popkin?"
+image: who-is-josh-popkin-1-card.jpg
+image_alt: "Josh Popkin, with the title The Founder, in Brief"
 tags: ["Entrepreneurship"]
 description: "Josh Popkin is an American entrepreneur, marketing engineer, and author, and the founder of Position Strategy Group, an Answer Engine Optimization (AEO)…"
 wix_url: https://www.joshpaulpopkin.com/post/who-is-josh-popkin-1
 faq: true
 ---
-![Who Is Josh Popkin?](who-is-josh-popkin-1-1.png)
+![Who Is Josh Popkin?](who-is-josh-popkin-1-1.jpg)
 
 Josh Popkin is an American entrepreneur, marketing engineer, and author, and the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. His work starts with one question: when somebody asks an AI assistant about a company, what comes back — and then rebuilds a client's site, structured data, and published content until that answer changes.
 

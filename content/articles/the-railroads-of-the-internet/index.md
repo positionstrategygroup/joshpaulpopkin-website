@@ -4,7 +4,7 @@ dek: "Once a week I take a train to visit my 86-year-old bubbie."
 kicker: "Business"
 date: 2026-05-12
 updated: 2026-05-18
-image: the-railroads-of-the-internet-1.png
+image: the-railroads-of-the-internet-1.jpg
 image_alt: "The Railroads of The Internet"
 tags: ["Business"]
 description: "Once a week I take a train to visit my 86-year-old bubbie."

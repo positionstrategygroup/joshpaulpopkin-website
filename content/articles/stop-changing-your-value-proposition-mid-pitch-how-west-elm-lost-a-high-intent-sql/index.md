@@ -3,7 +3,7 @@ title: "Stop Changing Your Value Proposition Mid-Pitch: How West Elm Lost a High
 dek: "How a premium brand introduced friction right at the finish line and turned a high probability sale into a lost opportunity."
 kicker: "Business"
 date: 2026-06-09
-image: stop-changing-your-value-proposition-mid-pitch-how-west-elm-lost-a-high-intent-sql-1.png
+image: stop-changing-your-value-proposition-mid-pitch-how-west-elm-lost-a-high-intent-sql-1.jpg
 image_alt: "Stop Changing Your Value Proposition Mid-Pitch: How West Elm Lost a High-Intent SQL"
 tags: ["Business"]
 description: "How a premium brand introduced friction right at the finish line and turned a high probability sale into a lost opportunity."

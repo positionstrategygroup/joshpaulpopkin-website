@@ -3,7 +3,7 @@ title: "The Architecture of Modern Classics"
 dek: "What does a legendary French electronic duo have to do with the future of digital banking?"
 kicker: "Business"
 date: 2026-06-28
-image: the-architecture-of-modern-classics-1.png
+image: the-architecture-of-modern-classics-1.jpg
 image_alt: "The Architecture of Modern Classics"
 tags: ["Business"]
 description: "What does a legendary French electronic duo have to do with the future of digital banking?"

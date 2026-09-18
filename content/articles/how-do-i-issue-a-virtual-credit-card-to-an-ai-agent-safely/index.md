@@ -3,7 +3,7 @@ title: "How Do I Issue a Virtual Credit Card to an AI Agent Safely?"
 dek: "One of the stranger questions emerging in fintech right now is:"
 kicker: "AI"
 date: 2026-05-25
-image: how-do-i-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.png
+image: how-do-i-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.jpg
 image_alt: "How Do I Issue a Virtual Credit Card to an AI Agent Safely?"
 tags: ["AI", "AI Agents", "Payments"]
 description: "One of the stranger questions emerging in fintech right now is:"

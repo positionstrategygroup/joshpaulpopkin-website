@@ -3,7 +3,7 @@ title: "Is Adyen a payment gateway, an acquirer, or a processor?"
 dek: "Why one of fintech’s largest companies is difficult to categorize"
 kicker: "Business"
 date: 2026-05-25
-image: is-adyen-a-payment-gateway-an-acquirer-or-a-processor-1.png
+image: is-adyen-a-payment-gateway-an-acquirer-or-a-processor-1.jpg
 image_alt: "Is Adyen a payment gateway, an acquirer, or a processor?"
 tags: ["Business"]
 description: "Why one of fintech’s largest companies is difficult to categorize"

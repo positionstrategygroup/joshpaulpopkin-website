@@ -3,7 +3,7 @@ title: "How Do We Handle KYC for Autonomous Corporate Agents?"
 dek: "Rethinking identity verification in agentic finance"
 kicker: "AI Agents"
 date: 2026-05-25
-image: how-do-we-handle-kyc-for-autonomous-corporate-agents-1.png
+image: how-do-we-handle-kyc-for-autonomous-corporate-agents-1.jpg
 image_alt: "How Do We Handle KYC for Autonomous Corporate Agents?"
 tags: ["AI Agents"]
 description: "Rethinking identity verification in agentic finance"

@@ -3,7 +3,7 @@ title: "Financial Inclusion Is Becoming a Competitive Advantage in Fintech Infra
 dek: "Financial inclusion is no longer being treated solely as a social mission"
 kicker: "Fintech"
 date: 2026-05-18
-image: financial-inclusion-is-becoming-a-competitive-advantage-in-fintech-infrastructure-1.png
+image: financial-inclusion-is-becoming-a-competitive-advantage-in-fintech-infrastructure-1.jpg
 image_alt: "Financial Inclusion Is Becoming a Competitive Advantage in Fintech Infrastructure"
 tags: ["Fintech"]
 description: "Financial inclusion is no longer being treated solely as a social mission"

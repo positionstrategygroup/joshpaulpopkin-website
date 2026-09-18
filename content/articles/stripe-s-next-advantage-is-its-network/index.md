@@ -3,8 +3,8 @@ title: "Stripe’s Next Advantage Is Its Network"
 dek: "What Stripe Sessions reveals about the company’s evolution beyond payments infrastructure"
 kicker: "Fintech"
 date: 2026-05-25
-image: stripe-s-next-advantage-is-its-network-1.png
-image_alt: "Stripe’s Next Advantage Is Its Network"
+image: stripe-s-next-advantage-is-its-network-card.jpg
+image_alt: "Josh Popkin, with the title Stripe’s Next Advantage"
 tags: ["Fintech"]
 description: "What Stripe Sessions reveals about the company’s evolution beyond payments infrastructure"
 wix_url: https://www.joshpaulpopkin.com/post/stripe-s-next-advantage-is-its-network

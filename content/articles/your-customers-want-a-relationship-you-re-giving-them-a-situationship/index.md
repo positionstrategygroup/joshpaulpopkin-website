@@ -3,7 +3,7 @@ title: "Your Customers Want a Relationship. You're Giving Them a Situationship."
 dek: "For the past year, I've been in a couple situationships with a few barbers in New York."
 kicker: "Business"
 date: 2026-06-09
-image: your-customers-want-a-relationship-you-re-giving-them-a-situationship-2.png
+image: your-customers-want-a-relationship-you-re-giving-them-a-situationship-1.jpg
 image_alt: "Your Customers Want a Relationship. You're Giving Them a Situationship."
 tags: ["Business"]
 description: "For the past year, I've been in a couple situationships with a few barbers in New York."
@@ -11,8 +11,6 @@ wix_url: https://www.joshpaulpopkin.com/post/your-customers-want-a-relationship-
 faq: true
 ---
 *Competence Earns Consideration. EQ Earns Loyalty.*
-
-![Your Customers Want a Relationship. You're Giving Them a Situationship.](your-customers-want-a-relationship-you-re-giving-them-a-situationship-1.png)
 
 ## THE ORIGIN STORY
 

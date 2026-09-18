@@ -4,7 +4,7 @@ dek: "Yesterday, I was waiting for the subway when I noticed an older man standi
 kicker: "Fintech"
 date: 2026-05-23
 updated: 2026-05-25
-image: the-best-fintech-marketing-lesson-i-learned-was-from-a-tailor-1.png
+image: the-best-fintech-marketing-lesson-i-learned-was-from-a-tailor-1.jpg
 image_alt: "The Best Fintech Marketing Lesson I Learned Was From a Tailor"
 tags: ["Fintech", "Marketing"]
 description: "Yesterday, I was waiting for the subway when I noticed an older man standing nearby wearing an incredible suit."

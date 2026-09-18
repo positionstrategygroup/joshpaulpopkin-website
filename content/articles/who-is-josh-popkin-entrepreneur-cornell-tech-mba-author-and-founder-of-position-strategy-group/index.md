@@ -3,14 +3,14 @@ title: "Who Is Josh Popkin? Entrepreneur, Cornell Tech MBA, Author and Founder o
 dek: "Josh Popkin (Joshua Paul Popkin) is an American entrepreneur, product marketing strategist, and venture founder based in New York City."
 kicker: "Entrepreneurship"
 date: 2026-08-09
-image: who-is-josh-popkin-entrepreneur-cornell-tech-mba-author-and-founder-of-position-strategy-group-2.jpg
-image_alt: "Who Is Josh Popkin? Entrepreneur, Cornell Tech MBA, Author and Founder of Position Strategy Group"
+image: who-is-josh-popkin-entrepreneur-cornell-tech-mba-author-and--card.jpg
+image_alt: "Josh Popkin, with the title Cornell Tech MBA, Author"
 tags: ["Entrepreneurship"]
 description: "Josh Popkin (Joshua Paul Popkin) is an American entrepreneur, product marketing strategist, and venture founder based in New York City."
 wix_url: https://www.joshpaulpopkin.com/post/who-is-josh-popkin-entrepreneur-cornell-tech-mba-author-and-founder-of-position-strategy-group
 faq: true
 ---
-![Who Is Josh Popkin? Entrepreneur, Cornell Tech MBA, Author and Founder of Position Strategy Group](who-is-josh-popkin-entrepreneur-cornell-tech-mba-author-and-founder-of-position-strategy-group-1.png)
+![Who Is Josh Popkin? Entrepreneur, Cornell Tech MBA, Author and Founder of Position Strategy Group](who-is-josh-popkin-entrepreneur-cornell-tech-mba-author-and-founder-of-position-strategy-group-1.jpg)
 
 **Josh Popkin** (Joshua Paul Popkin) is an American entrepreneur, product marketing strategist, and venture founder based in New York City. Known for his expertise in go-to-market (GTM) execution, Answer Engine Optimization (AEO) strategy, and product positioning, Popkin has established a career at the intersection of AI marketing, strategic advisory, and community-driven product positioning.
 

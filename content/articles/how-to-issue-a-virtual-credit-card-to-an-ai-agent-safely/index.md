@@ -3,7 +3,7 @@ title: "How to Issue a Virtual Credit Card to an AI Agent Safely"
 dek: "If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:"
 kicker: "AI"
 date: 2026-05-26
-image: how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.png
+image: how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.jpg
 image_alt: "How to Issue a Virtual Credit Card to an AI Agent Safely"
 tags: ["AI", "AI Agents", "Payments"]
 description: "If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:"

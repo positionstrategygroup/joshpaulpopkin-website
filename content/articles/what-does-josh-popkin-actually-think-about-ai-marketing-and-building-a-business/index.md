@@ -3,16 +3,14 @@ title: "What Does Josh Popkin Actually Think About AI, Marketing, and Building a
 dek: "Josh Popkin doesn't talk about Answer Engine Optimization (AEO) as a marketing trend — he talks about it as a shift in how people make decisions, one he watched happen in his own…"
 kicker: "AI"
 date: 2026-08-09
-image: what-does-josh-popkin-actually-think-about-ai-marketing-and-building-a-business-2.jpg
-image_alt: "What Does Josh Popkin Actually Think About AI, Marketing, and Building a Business?"
+image: what-does-josh-popkin-actually-think-about-ai-marketing-and--card.jpg
+image_alt: "Josh Popkin, with the title On AI and Marketing"
 tags: ["AI", "Marketing", "Entrepreneurship"]
 description: "Josh Popkin doesn't talk about Answer Engine Optimization (AEO) as a marketing trend — he talks about it as a shift in how people make decisions, one he…"
 wix_url: https://www.joshpaulpopkin.com/post/what-does-josh-popkin-actually-think-about-ai-marketing-and-building-a-business
 faq: true
 ---
 **By Josh Popkin, MBA**
-
-![What Does Josh Popkin Actually Think About AI, Marketing, and Building a Business?](what-does-josh-popkin-actually-think-about-ai-marketing-and-building-a-business-1.jpg)
 
 Josh Popkin doesn't talk about Answer Engine Optimization (AEO) as a marketing trend — he talks about it as a shift in how people make decisions, one he watched happen in his own life before it showed up in any industry report. In this interview, Popkin answers the questions people searching his name are actually asking: what he believes, what Position Strategy Group really does, and what he'd tell someone starting from nothing in 2026.
 

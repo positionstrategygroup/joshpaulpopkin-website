@@ -3,7 +3,7 @@ title: "What GTM Product Marketers Can Learn From Golf"
 dek: "Product Marketing is often described through outputs: messaging, positioning, launches, sales collateral, and enablement."
 kicker: "Go To Market"
 date: 2026-05-26
-image: what-gtm-product-marketers-can-learn-from-golf-1.png
+image: what-gtm-product-marketers-can-learn-from-golf-1.jpg
 image_alt: "What GTM Product Marketers Can Learn From Golf"
 tags: ["Go To Market"]
 description: "Product Marketing is often described through outputs: messaging, positioning, launches, sales collateral, and enablement."

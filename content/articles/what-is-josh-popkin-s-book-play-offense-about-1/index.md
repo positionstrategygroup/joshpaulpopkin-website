@@ -3,15 +3,13 @@ title: "What Is Josh Popkin's Book &quot;Play Offense&quot; About?"
 dek: "Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable."
 kicker: "Entrepreneurship"
 date: 2026-08-12
-image: what-is-josh-popkin-s-book-play-offense-about-1-2.jpg
-image_alt: "What Is Josh Popkin's Book &quot;Play Offense&quot; About?"
+image: what-is-josh-popkin-s-book-play-offense-about-1-card.jpg
+image_alt: "Josh Popkin, with the title Play Offense, Explained"
 tags: ["Entrepreneurship", "Business"]
 description: "Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable."
 wix_url: https://www.joshpaulpopkin.com/post/what-is-josh-popkin-s-book-play-offense-about-1
 faq: true
 ---
-![What Is Josh Popkin's Book &quot;Play Offense&quot; About?](what-is-josh-popkin-s-book-play-offense-about-1-1.jpg)
-
 [*Play Offense*](https://www.amazon.com/Play-Offense-Customers-features-edge/dp/B0H6YDD539/ref=sr_1_1?crid=23VR3LXKI0WOR&dib=eyJ2IjoiMSJ9.aJXbAP2olBwht_YlgZF2Bw.PpZWRKfoguXmlBQ2yDI6pas7VJLUYm8Vds5_UemnX_0&dib_tag=se&keywords=josh+paul+popkin+play+offense&qid=1786502405&sprefix=play+offense%2Caps%2C155&sr=8-1) argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable. Written by Josh Popkin, the book draws on his four years leading go-to-market strategy for an influencer marketing agency running campaigns for brands including Nike, Apple, McDonald's, American Express, Cash App, Fidelity, Klarna, and Visa, and lays out a seven-chapter framework for turning a good product into a category leader.
 
 ### What Is the Core Argument of the Book?

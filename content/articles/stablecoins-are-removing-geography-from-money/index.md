@@ -3,7 +3,7 @@ title: "Stablecoins Are Removing Geography from Money"
 dek: "For most of modern history, geography determined how money moved."
 kicker: "Stablecoins"
 date: 2026-06-17
-image: stablecoins-are-removing-geography-from-money-1.png
+image: stablecoins-are-removing-geography-from-money-1.jpg
 image_alt: "Stablecoins Are Removing Geography from Money"
 tags: ["Stablecoins"]
 description: "For most of modern history, geography determined how money moved."

@@ -3,7 +3,7 @@ title: "Five Structural Shifts Reshaping B2B Fintech"
 dek: "The trends changing payments, treasury, infrastructure, and financial software in 2026"
 kicker: "Fintech"
 date: 2026-05-25
-image: five-structural-shifts-reshaping-b2b-fintech-1.png
+image: five-structural-shifts-reshaping-b2b-fintech-1.jpg
 image_alt: "Five Structural Shifts Reshaping B2B Fintech"
 tags: ["Fintech"]
 description: "The trends changing payments, treasury, infrastructure, and financial software in 2026"

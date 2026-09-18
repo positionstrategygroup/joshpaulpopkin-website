@@ -3,7 +3,7 @@ title: "How Does an AI Agent Actually Run M&amp;A?"
 dek: "What OffDeal reveals about the future of investment banking"
 kicker: "AI"
 date: 2026-05-25
-image: how-does-an-ai-agent-actually-run-m-a-1.png
+image: how-does-an-ai-agent-actually-run-m-a-1.jpg
 image_alt: "How Does an AI Agent Actually Run M&amp;A?"
 tags: ["AI", "AI Agents"]
 description: "What OffDeal reveals about the future of investment banking"

@@ -4,15 +4,13 @@ dek: "Parker, the $200M Fintech Startup, Files for Bankruptcy"
 kicker: "Positioning"
 date: 2026-05-13
 updated: 2026-05-18
-image: unclear-market-positioning-heavily-contributed-to-parker-s-collapse-2.png
+image: unclear-market-positioning-heavily-contributed-to-parker-s-collapse-1.jpg
 image_alt: "Unclear Market Positioning Heavily Contributed to Parker’s Collapse"
 tags: ["Positioning"]
 description: "Parker, the $200M Fintech Startup, Files for Bankruptcy"
 wix_url: https://www.joshpaulpopkin.com/post/unclear-market-positioning-heavily-contributed-to-parker-s-collapse
 faq: true
 ---
-![Unclear Market Positioning Heavily Contributed to Parker’s Collapse](unclear-market-positioning-heavily-contributed-to-parker-s-collapse-1.png)
-
 Every week, it feels like there’s a new fintech startup promising to “revolutionize” how SMBs operate.
 
 And every week, another venture-backed founder learns that great fundraising is not the same thing as **building a durable company.**

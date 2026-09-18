@@ -3,7 +3,7 @@ title: "The New Fraud Problem in Fintech Isn’t Payments. It’s Usage."
 dek: "What Stripe Sessions 2026 revealed about multi-account abuse, free-trial gaming, and the economics of AI monetization"
 kicker: "Fintech"
 date: 2026-05-25
-image: the-new-fraud-problem-in-fintech-isn-t-payments-it-s-usage-1.png
+image: the-new-fraud-problem-in-fintech-isn-t-payments-it-s-usage-1.jpg
 image_alt: "The New Fraud Problem in Fintech Isn’t Payments. It’s Usage."
 tags: ["Fintech", "Payments", "Fraud"]
 description: "What Stripe Sessions 2026 revealed about multi-account abuse, free-trial gaming, and the economics of AI monetization"

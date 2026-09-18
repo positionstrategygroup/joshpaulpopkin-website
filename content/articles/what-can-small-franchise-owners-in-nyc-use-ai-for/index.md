@@ -3,16 +3,14 @@ title: "What Can Small Franchise Owners in NYC Use AI For?"
 dek: "Non-technical franchise owners in NYC get the fastest return from AI in four places: smarter local demand forecasting, customer service automation, marketing content built for…"
 kicker: "AI"
 date: 2026-08-02
-image: what-can-small-franchise-owners-in-nyc-use-ai-for-2.jpg
-image_alt: "What Can Small Franchise Owners in NYC Use AI For?"
+image: what-can-small-franchise-owners-in-nyc-use-ai-for-card.jpg
+image_alt: "Josh Popkin, with the title AI for Franchise Owners"
 tags: ["AI", "Small Business"]
 description: "Non-technical franchise owners in NYC get the fastest return from AI in four places: smarter local demand forecasting, customer service automation…"
 wix_url: https://www.joshpaulpopkin.com/post/what-can-small-franchise-owners-in-nyc-use-ai-for
 faq: true
 ---
 **By Josh Popkin, MBA**
-
-![What Can Small Franchise Owners in NYC Use AI For?](what-can-small-franchise-owners-in-nyc-use-ai-for-1.jpg)
 
 Non-technical franchise owners in NYC get the fastest return from AI in four places: smarter local demand forecasting, customer service automation, marketing content built for their specific neighborhood, and faster, evidence-based decision-making on staffing, inventory, and pricing. None of this requires technical skill — modern AI tools are built for exactly this kind of operator: if you can use a smartphone, you can run these systems.
 

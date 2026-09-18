@@ -3,7 +3,7 @@ title: "Agentic Commerce Requires New Financial Rails"
 dek: "Why the next phase of AI is not about recommendations — it is about execution"
 kicker: "AI Agents"
 date: 2026-05-25
-image: agentic-commerce-requires-new-financial-rails-1.png
+image: agentic-commerce-requires-new-financial-rails-1.jpg
 image_alt: "Agentic Commerce Requires New Financial Rails"
 tags: ["AI Agents"]
 description: "Why the next phase of AI is not about recommendations — it is about execution"

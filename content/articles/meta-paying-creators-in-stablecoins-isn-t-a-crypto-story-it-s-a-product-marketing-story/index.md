@@ -3,7 +3,7 @@ title: "Meta Paying Creators in Stablecoins Isn’t a Crypto Story — It’s a 
 dek: "I was watching Stripe Sessions 2026 this week when one announcement made me stop scrolling. Not AI agents. Not checkout. Not infrastructure."
 kicker: "Stablecoins"
 date: 2026-05-25
-image: meta-paying-creators-in-stablecoins-isn-t-a-crypto-story-it-s-a-product-marketing-story-1.png
+image: meta-paying-creators-in-stablecoins-isn-t-a-crypto-story-it-s-a-product-marketing-story-1.jpg
 image_alt: "Meta Paying Creators in Stablecoins Isn’t a Crypto Story — It’s a Product Marketing Story"
 tags: ["Stablecoins", "Marketing"]
 description: "I was watching Stripe Sessions 2026 this week when one announcement made me stop scrolling. Not AI agents. Not checkout. Not infrastructure."

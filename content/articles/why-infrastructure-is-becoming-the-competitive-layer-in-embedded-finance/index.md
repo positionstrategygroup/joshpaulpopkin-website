@@ -3,7 +3,7 @@ title: "Why Infrastructure Is Becoming the Competitive Layer in Embedded Finance
 dek: "Embedded finance has evolved far beyond being a convenient checkout feature"
 kicker: "Business"
 date: 2026-05-18
-image: why-infrastructure-is-becoming-the-competitive-layer-in-embedded-finance-1.png
+image: why-infrastructure-is-becoming-the-competitive-layer-in-embedded-finance-1.jpg
 image_alt: "Why Infrastructure Is Becoming the Competitive Layer in Embedded Finance"
 tags: ["Business"]
 description: "Embedded finance has evolved far beyond being a convenient checkout feature"

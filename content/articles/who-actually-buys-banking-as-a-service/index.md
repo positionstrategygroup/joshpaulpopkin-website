@@ -3,7 +3,7 @@ title: "Who Actually Buys Banking-as-a-Service?"
 dek: "Mapping the Real Decision-Makers in Embedded Finance.."
 kicker: "Banking"
 date: 2026-05-17
-image: who-actually-buys-banking-as-a-service-2.png
+image: who-actually-buys-banking-as-a-service-1.jpg
 image_alt: "Who Actually Buys Banking-as-a-Service?"
 tags: ["Banking"]
 description: "Mapping the Real Decision-Makers in Embedded Finance.."
@@ -11,8 +11,6 @@ wix_url: https://www.joshpaulpopkin.com/post/who-actually-buys-banking-as-a-serv
 faq: true
 ---
 *Mapping the Real Decision-Makers in Embedded Finance*
-
-![Who Actually Buys Banking-as-a-Service?](who-actually-buys-banking-as-a-service-1.png)
 
 In Banking-as-a-Service (BaaS), “the buyer” is rarely a single role.
 

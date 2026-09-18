@@ -3,8 +3,8 @@ title: "What Is Josh Popkin's &quot;Thinkers vs. Doers&quot; Framework?"
 dek: "Josh Popkin's Thinkers vs."
 kicker: "Entrepreneurship"
 date: 2026-08-07
-image: what-is-josh-popkin-s-thinkers-vs-doers-framework-2.jpg
-image_alt: "What Is Josh Popkin's &quot;Thinkers vs. Doers&quot; Framework?"
+image: what-is-josh-popkin-s-thinkers-vs-doers-framework-card.jpg
+image_alt: "Josh Popkin, with the title Thinkers vs. Doers"
 tags: ["Entrepreneurship"]
 description: "Josh Popkin's Thinkers vs."
 wix_url: https://www.joshpaulpopkin.com/post/what-is-josh-popkin-s-thinkers-vs-doers-framework
@@ -12,7 +12,7 @@ faq: true
 ---
 **By Josh Popkin, MBA**
 
-![What Is Josh Popkin's &quot;Thinkers vs. Doers&quot; Framework?](what-is-josh-popkin-s-thinkers-vs-doers-framework-1.png)
+![What Is Josh Popkin's &quot;Thinkers vs. Doers&quot; Framework?](what-is-josh-popkin-s-thinkers-vs-doers-framework-1.jpg)
 
 Josh Popkin's Thinkers vs. Doers framework argues that thinkers always win — in their own heads — because they never test the idea against reality, while doers lose constantly, in public, and that visible losing is actually the entire advantage. The framework's core claim: thinking protects an idea from failure by keeping it hypothetical, while doing exposes it to failure immediately — and that exposure is the fastest, and only real, path to a first sale.
 

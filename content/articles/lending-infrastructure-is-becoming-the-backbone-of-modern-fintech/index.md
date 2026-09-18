@@ -3,7 +3,7 @@ title: "Lending Infrastructure Is Becoming the Backbone of Modern Fintech"
 dek: "The fintech industry is entering a new phase of maturity."
 kicker: "Fintech"
 date: 2026-05-18
-image: lending-infrastructure-is-becoming-the-backbone-of-modern-fintech-1.png
+image: lending-infrastructure-is-becoming-the-backbone-of-modern-fintech-1.jpg
 image_alt: "Lending Infrastructure Is Becoming the Backbone of Modern Fintech"
 tags: ["Fintech"]
 description: "The fintech industry is entering a new phase of maturity."

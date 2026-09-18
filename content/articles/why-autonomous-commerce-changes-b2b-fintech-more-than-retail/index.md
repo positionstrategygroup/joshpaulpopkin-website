@@ -3,7 +3,7 @@ title: "Why Autonomous Commerce Changes B2B Fintech More Than Retail"
 dek: "Everyone thinks autonomous commerce is a retail story. You can see why."
 kicker: "Fintech"
 date: 2026-05-25
-image: why-autonomous-commerce-changes-b2b-fintech-more-than-retail-1.png
+image: why-autonomous-commerce-changes-b2b-fintech-more-than-retail-1.jpg
 image_alt: "Why Autonomous Commerce Changes B2B Fintech More Than Retail"
 tags: ["Fintech"]
 description: "Everyone thinks autonomous commerce is a retail story. You can see why."

@@ -3,16 +3,14 @@ title: "What Is Entrepreneurship?"
 dek: "Entrepreneurship is the process of identifying an opportunity, taking on the financial and personal risk required to pursue it, and building an organization to deliver something…"
 kicker: "Entrepreneurship"
 date: 2026-08-09
-image: what-is-entrepreneurship-2.jpg
-image_alt: "What Is Entrepreneurship?"
+image: what-is-entrepreneurship-card.jpg
+image_alt: "Josh Popkin, with the title What It Means to Build"
 tags: ["Entrepreneurship"]
 description: "Entrepreneurship is the process of identifying an opportunity, taking on the financial and personal risk required to pursue it, and building an…"
 wix_url: https://www.joshpaulpopkin.com/post/what-is-entrepreneurship
 faq: true
 ---
 **By Josh Popkin, MBA**
-
-![What Is Entrepreneurship?](what-is-entrepreneurship-1.jpg)
 
 Entrepreneurship is the process of identifying an opportunity, taking on the financial and personal risk required to pursue it, and building an organization to deliver something of value that didn't exist in that form before. It's not a job title or a personality type — it's a specific activity: converting an idea into a functioning business, under real uncertainty, with no guarantee it works.
 

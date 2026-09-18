@@ -3,15 +3,13 @@ title: "Josh Popkin: Play Offense"
 dek: "Josh Paul Popkin self-published his first book: Play Offense: Customers don't buy features. They buy an edge."
 kicker: "Entrepreneurship"
 date: 2026-07-02
-image: josh-popkin-play-offense-2.jpg
-image_alt: "Josh Popkin: Play Offense"
+image: josh-popkin-play-offense-card.jpg
+image_alt: "Josh Popkin, with the title Play Offense"
 tags: ["Entrepreneurship", "Business"]
 description: "Josh Paul Popkin self-published his first book: Play Offense: Customers don't buy features. They buy an edge."
 wix_url: https://www.joshpaulpopkin.com/post/josh-popkin-play-offense
 faq: true
 ---
-![Josh Popkin: Play Offense](josh-popkin-play-offense-1.jpg)
-
 Most businesses think they're competing on product quality, pricing, or features.
 
 They're not.

@@ -3,7 +3,7 @@ title: "Robinhood's Biggest Bet Yet Isn't Trading. It's Rebuilding the Financial
 dek: "For years, Robinhood was known as the company that made investing feel more like using Instagram than calling a stockbroker. That story is now outdated."
 kicker: "Business"
 date: 2026-06-10
-image: robinhood-s-biggest-bet-yet-isn-t-trading-it-s-rebuilding-the-financial-system-1.png
+image: robinhood-s-biggest-bet-yet-isn-t-trading-it-s-rebuilding-the-financial-system-1.jpg
 image_alt: "Robinhood's Biggest Bet Yet Isn't Trading. It's Rebuilding the Financial System."
 tags: ["Business"]
 description: "For years, Robinhood was known as the company that made investing feel more like using Instagram than calling a stockbroker. That story is now outdated."

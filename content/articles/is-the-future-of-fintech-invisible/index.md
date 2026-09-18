@@ -3,7 +3,7 @@ title: "Is the Future of Fintech… Invisible?"
 dek: "One idea I keep coming back to lately: what if the biggest shift in fintech is that customers stop noticing it altogether?"
 kicker: "Fintech"
 date: 2026-05-26
-image: is-the-future-of-fintech-invisible-1.png
+image: is-the-future-of-fintech-invisible-1.jpg
 image_alt: "Is the Future of Fintech… Invisible?"
 tags: ["Fintech"]
 description: "One idea I keep coming back to lately: what if the biggest shift in fintech is that customers stop noticing it altogether?"

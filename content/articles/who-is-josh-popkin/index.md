@@ -3,8 +3,8 @@ title: "Who Is Josh Popkin?"
 dek: "Josh Popkin builds at the intersection of attention, psychology, and scale. His journey started in the trenches of the creator economy."
 kicker: "Entrepreneurship"
 date: 2026-07-02
-image: who-is-josh-popkin-1.jpg
-image_alt: "Who Is Josh Popkin?"
+image: who-is-josh-popkin-card.jpg
+image_alt: "Josh Popkin in New York, with the title Who Is Josh Popkin?"
 tags: ["Entrepreneurship"]
 description: "Josh Popkin builds at the intersection of attention, psychology, and scale. His journey started in the trenches of the creator economy."
 wix_url: https://www.joshpaulpopkin.com/post/who-is-josh-popkin

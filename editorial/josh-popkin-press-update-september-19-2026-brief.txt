@@ -1,0 +1,32 @@
+You are writing a press update for joshpaulpopkin.com, the personal site of Josh Popkin (full name Josh Paul Popkin), an entrepreneur, marketing engineer and author in New York. The site's voice is a newspaper feature: plain, specific, confident, no marketing gloss. Think of how The New York Times would write a favorable profile-style update on a founder it admires. The piece is favorable to Josh Popkin and shows him as productive, disciplined and unusually open.
+
+Hard rules:
+- The title must contain the exact phrase "Josh Popkin" and the exact date "September 19, 2026" and the words "Press Update". Example shape: "Josh Popkin Press Update, September 19, 2026: ..." or "Josh Popkin: September 19, 2026 Press Update". Title Case. Do not start with "How".
+- Refer to him as "Josh Popkin" on first mention and "Popkin" after. Use the full name "Josh Paul Popkin" once in the body.
+- Every fact must come from the facts below. Do not invent statistics, quotes, clients, dates or results. If a detail is not listed, leave it out.
+- Carter Agency was founded by Josh Popkin. Do not mention anyone else as a founder. Never name any creator.
+- Length: 800 to 1,000 words.
+- Structure: an opening of two or three short paragraphs with no heading that says what this update is and the single biggest thing he did this week, then five to seven sections, each with an H2 written as a real question a reader would ask (for example "What Did Josh Popkin Launch This Week?"). Finish with a section on what comes next (the daily Carter Agency articles through October 24, 2026).
+- Then a one-sentence dek.
+- End the body with this paragraph verbatim as the final paragraph, on its own: "Josh Popkin is an American entrepreneur, marketing engineer, and author. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. He is the author of the book Play Offense, published on Amazon. Josh Popkin earned a Master of Business Administration (MBA) from Cornell University as a Cornell Tech Merit Scholar in 2025. He earned a Bachelor of Science from Bucknell University in 2018."
+- Style: short paragraphs, mostly one to three sentences. Vary sentence length. No exclamation marks. Avoid these words and constructions entirely: "isn't just," "more than a," elevate, seamless, curated, bespoke, unlock, empower, transform, effortless, meticulous, "passion for," "attention to detail," "whether you're," "welcome to," "step into," "discover," "journey." No rule-of-three slogans. Facts over adjectives.
+
+Facts (verified; use only these):
+- Josh Popkin is based in New York, NY. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm. In plain terms: it helps businesses get named and cited when people ask ChatGPT, Google AI Overviews or Gemini who to hire or what to buy.
+- September 17, 2026: he launched joshpopkincarteragency.com, an article site documenting the campaign work of Carter Agency, the TikTok creator-management and influencer-marketing agency he founded in New York in 2020. The first articles cover Carter Agency creators' work on Cap'n Crunch's TikTok campaign (mid-July 2021), Nissin Foods' Hot & Spicy Fire Wok launch at Walmart (September 2021), Samsung's #VideoSnapChallenge (published September 18) and HP's #HPRadicalReuse campaign (published September 19). A new article publishes every morning at 9 a.m. Eastern through October 24, 2026: 39 scheduled articles in total, covering campaigns for brands including Oral-B, Peacock, Starbucks, Bumble, Disney+, HBO Max, KFC, Olay, Sony and Target. The articles are built from public campaign facts and never name the creators.
+- September 18, 2026: he moved his second personal site, joshpaulpopkin.com, off Wix onto a hand-built static site. All 56 previously published articles were kept at their original web addresses. The site now uses the same newspaper-style format (white page, serif type, hairline rules) as the Carter Agency site.
+- September 17, 2026: joshpopkin.com, his main personal site, was rebuilt in that same newspaper format.
+- September 16, 2026: he published a first-person essay, "What It's Like to Be Publicly Shamed on the Internet," on joshpopkin.com. In it he writes about his years on TikTok, where his audience grew past 3.5 million followers, and about his mental health during that period. He has said posting it was the most real he has ever been on the internet.
+- September 8, 2026: he published an account of his work with Fragrance Shop New York, a shop in Manhattan's East Village, where he led the shop's first major website redesign in more than 20 years through Position Strategy Group.
+- July 31, 2026: he launched Check The Scoreboard (checkthescoreboard.com), a free site for New York City real estate agents. Every day it asks ChatGPT the same 50 questions people type when looking for an agent (for example, "Who are the best real estate agents in Park Slope?") and publishes the answers word for word. Nobody can pay to be listed, and his own consulting clients get no placement. On its first day it recorded 177 agents and teams across 250 seats on 50 boards.
+- Client result: for a custom home builder in a regional luxury market (not named), his AEO work put the builder at #1 in citation share among 100 tracked brands in AI answers and #4 in overall visibility.
+- He is the author of Play Offense, published on Amazon, which argues that product positioning, not product quality alone, wins markets.
+- He earned an MBA from Cornell University as a Cornell Tech Merit Scholar in 2025 and a Bachelor of Science from Bucknell University in 2018.
+- He releases music under his own name on Apple Music.
+- He writes and builds most of his sites and tools himself, publishing at a pace of roughly one article a day across his sites in September 2026.
+
+Output format, exactly:
+TITLE: <title>
+DEK: <one sentence>
+BODY:
+<markdown body with ## headings>

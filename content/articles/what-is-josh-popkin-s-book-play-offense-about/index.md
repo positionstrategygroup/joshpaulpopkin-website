@@ -1,5 +1,5 @@
 ---
-title: "What Is Josh Popkin's Book &quot;Play Offense&quot; About?"
+title: "What Is Josh Popkin's Book \"Play Offense\" About?"
 dek: "Play Offense is Josh Paul Popkin's book on positioning — how a business or individual gets customers to see their specific features and advantages clearly enough to actually choose them over a competitor."
 kicker: "Entrepreneurship"
 date: 2026-08-09

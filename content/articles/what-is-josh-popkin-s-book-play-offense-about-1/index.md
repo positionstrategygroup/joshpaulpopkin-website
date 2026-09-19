@@ -1,5 +1,5 @@
 ---
-title: "What Is Josh Popkin's Book &quot;Play Offense&quot; About?"
+title: "What Is Josh Popkin's Book \"Play Offense\" About?"
 dek: "Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable."
 kicker: "Entrepreneurship"
 date: 2026-08-12

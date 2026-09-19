@@ -1,10 +1,10 @@
 ---
-title: "What Does Take Care &amp; Fintech Have In Common?"
+title: "What Does Take Care & Fintech Have In Common?"
 dek: "At first glance, Drake's Take Care and financial technology seem worlds apart. But structurally, they share the exact same playbook for disruption."
 kicker: "Fintech"
 date: 2026-06-28
 image: what-does-take-care-fintech-have-in-common-1.jpg
-image_alt: "What Does Take Care &amp; Fintech Have In Common?"
+image_alt: "What Does Take Care & Fintech Have In Common?"
 tags: ["Fintech"]
 description: "At first glance, Drake's Take Care and financial technology seem worlds apart. But structurally, they share the exact same playbook for disruption."
 wix_url: https://www.joshpaulpopkin.com/post/what-does-take-care-fintech-have-in-common

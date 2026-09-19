@@ -1,10 +1,10 @@
 ---
-title: "How Does an AI Agent Actually Run M&amp;A?"
+title: "How Does an AI Agent Actually Run M&A?"
 dek: "What OffDeal reveals about the future of investment banking"
 kicker: "AI"
 date: 2026-05-25
 image: how-does-an-ai-agent-actually-run-m-a-1.jpg
-image_alt: "How Does an AI Agent Actually Run M&amp;A?"
+image_alt: "How Does an AI Agent Actually Run M&A?"
 tags: ["AI", "AI Agents"]
 description: "What OffDeal reveals about the future of investment banking"
 wix_url: https://www.joshpaulpopkin.com/post/how-does-an-ai-agent-actually-run-m-a

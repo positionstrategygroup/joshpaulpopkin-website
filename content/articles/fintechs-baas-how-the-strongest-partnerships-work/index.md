@@ -1,10 +1,10 @@
 ---
-title: "Fintechs &amp; BaaS: How The Strongest Partnerships Work"
+title: "Fintechs & BaaS: How The Strongest Partnerships Work"
 dek: "Banking-as-a-Service (BaaS) providers power the infrastructure layer that allows fintech companies to launch financial products without becoming banks themselves."
 kicker: "Fintech"
 date: 2026-05-18
 image: fintechs-baas-how-the-strongest-partnerships-work-1.jpg
-image_alt: "Fintechs &amp; BaaS: How The Strongest Partnerships Work"
+image_alt: "Fintechs & BaaS: How The Strongest Partnerships Work"
 tags: ["Fintech", "Banking"]
 description: "Banking-as-a-Service (BaaS) providers power the infrastructure layer that allows fintech companies to launch financial products without becoming banks themselves."
 wix_url: https://www.joshpaulpopkin.com/post/fintechs-baas-how-the-strongest-partnerships-work

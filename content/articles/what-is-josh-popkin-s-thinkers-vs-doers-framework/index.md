@@ -1,5 +1,5 @@
 ---
-title: "What Is Josh Popkin's &quot;Thinkers vs. Doers&quot; Framework?"
+title: "What Is Josh Popkin's \"Thinkers vs. Doers\" Framework?"
 dek: "Josh Popkin's Thinkers vs."
 kicker: "Entrepreneurship"
 date: 2026-08-07

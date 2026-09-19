@@ -33,7 +33,8 @@ function parseFront(src) {
     const k = line.match(/^([A-Za-z_][\w-]*):\s*(.*)$/);
     if (!k) continue;
     let v = k[2].trim();
-    if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) v = v.slice(1, -1);
+    if (v.startsWith('"') && v.endsWith('"')) v = v.slice(1, -1).replace(/\\(["\\])/g, '$1');
+    else if (v.startsWith("'") && v.endsWith("'")) v = v.slice(1, -1);
     if (v.startsWith('[') && v.endsWith(']')) v = v.slice(1, -1).split(',').map(s => s.trim().replace(/^["']|["']$/g, '')).filter(Boolean);
     data[k[1]] = v;
   }
@@ -160,6 +161,7 @@ ${ld(graph)}
   <a class="name" href="/">${esc(site.name)}</a>
   ${site.tagline ? `<p class="tag">${esc(site.tagline)}</p>` : ''}
   <nav class="menu" aria-label="Site">
+    <a href="/"${current === 'home' ? ' aria-current="page"' : ''}>Home</a>
     <a href="/blog"${current === 'articles' ? ' aria-current="page"' : ''}>Perspectives</a>
     <a href="/about/"${current === 'about' ? ' aria-current="page"' : ''}>About</a>
   </nav>
@@ -214,13 +216,11 @@ function buildListings(articles, prefix = '') {
 {
   const [lead, ...rest] = articles;
   const body = articles.length
-    ? `${aboutStrip('h1')}
-<section class="list"><h2 class="sect">Perspectives</h2></section>
-${card(lead, true)}
+    ? `${card(lead, true)}
 ${rest.length ? `<section class="grid">${rest.map(a => card(a)).join('\n')}</section>` : ''}`
     : `${aboutStrip('h1')}`;
   write(prefix + 'index.html', page({
-    title: site.homeTitle || (site.tagline ? `${site.name} — ${site.tagline.replace(/\.$/, '')}` : site.name), description: site.description, canonical: `${site.url}/`, body,
+    title: site.homeTitle || (site.tagline ? `${site.name} — ${site.tagline.replace(/\.$/, '')}` : site.name), description: site.description, canonical: `${site.url}/`, body, current: 'home',
     graph: [website, person, { '@type': 'CollectionPage', '@id': `${site.url}/#home`, url: `${site.url}/`, name: site.name, isPartOf: { '@id': siteId }, about: { '@id': personId },
       hasPart: articles.map(a => ({ '@type': 'Article', '@id': `${site.url}${a.url}#article`, headline: a.title, url: site.url + a.url, datePublished: a.date, image: a.hero ? abs(a.hero) : undefined })) }]
   }));

@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How Do We Handle KYC for Autonomous Corporate Agents? — Josh Paul Popkin</title>
+<meta name="description" content="Rethinking identity verification in agentic finance">
+<link rel="canonical" href="https://www.joshpaulpopkin.com/post/how-do-we-handle-kyc-for-autonomous-corporate-agents">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="author" content="Josh Paul Popkin">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="alternate" type="application/rss+xml" title="Josh Paul Popkin" href="/rss.xml">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Josh Paul Popkin">
+<meta property="og:title" content="How Do We Handle KYC for Autonomous Corporate Agents?">
+<meta property="og:description" content="Rethinking identity verification in agentic finance">
+<meta property="og:url" content="https://www.joshpaulpopkin.com/post/how-do-we-handle-kyc-for-autonomous-corporate-agents">
+<meta property="og:image" content="https://www.joshpaulpopkin.com/images/how-do-we-handle-kyc-for-autonomous-corporate-agents/how-do-we-handle-kyc-for-autonomous-corporate-agents-1.jpg">
+<meta property="og:image:width" content="1254">
+<meta property="og:image:height" content="1254">
+<meta property="article:published_time" content="2026-05-25">
+<meta property="article:modified_time" content="2026-05-25">
+<meta property="article:author" content="Josh Paul Popkin">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How Do We Handle KYC for Autonomous Corporate Agents?">
+<meta name="twitter:description" content="Rethinking identity verification in agentic finance">
+<meta name="twitter:image" content="https://www.joshpaulpopkin.com/images/how-do-we-handle-kyc-for-autonomous-corporate-agents/how-do-we-handle-kyc-for-autonomous-corporate-agents-1.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css?v=633cbc4e">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.joshpaulpopkin.com/post/how-do-we-handle-kyc-for-autonomous-corporate-agents#article","headline":"How Do We Handle KYC for Autonomous Corporate Agents?","alternativeHeadline":"Rethinking identity verification in agentic finance","description":"Rethinking identity verification in agentic finance","image":[{"@type":"ImageObject","url":"https://www.joshpaulpopkin.com/images/how-do-we-handle-kyc-for-autonomous-corporate-agents/how-do-we-handle-kyc-for-autonomous-corporate-agents-1.jpg","width":1254,"height":1254,"caption":"How Do We Handle KYC for Autonomous Corporate Agents?"}],"datePublished":"2026-05-25","dateModified":"2026-05-25","inLanguage":"en-US","isAccessibleForFree":true,"wordCount":1284,"articleSection":"AI Agents","keywords":"AI Agents","author":{"@id":"https://www.joshpaulpopkin.com/#josh"},"publisher":{"@id":"https://www.joshpaulpopkin.com/#josh"},"mainEntityOfPage":{"@id":"https://www.joshpaulpopkin.com/post/how-do-we-handle-kyc-for-autonomous-corporate-agents"},"isPartOf":{"@id":"https://www.joshpaulpopkin.com/#website"}},{"@type":"Person","@id":"https://www.joshpaulpopkin.com/#josh","name":"Josh Paul Popkin","alternateName":["Josh Popkin","Joshua Paul Popkin"],"givenName":"Josh","additionalName":"Paul","familyName":"Popkin","url":"https://www.joshpaulpopkin.com/about/","image":{"@type":"ImageObject","url":"https://www.joshpaulpopkin.com/josh-popkin-headshot-2026-square.jpg","width":1024,"height":1024},"jobTitle":"Founder, Marketing Engineer and Author","description":"Josh Popkin is an American entrepreneur, marketing engineer, and author. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. He is the author of the book Play Offense, published on Amazon. Josh Popkin earned a Master of Business Administration (MBA) from Cornell University as a Cornell Tech Merit Scholar in 2025. He earned a Bachelor of Science from Bucknell University in 2018.","worksFor":{"@id":"https://positionstrategygroup.com/#organization"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"Cornell University"},{"@type":"CollegeOrUniversity","name":"Bucknell University"}],"hasOccupation":{"@type":"Occupation","name":"Marketing engineer"},"homeLocation":{"@type":"Place","name":"New York, NY"},"birthPlace":{"@type":"Place","name":"Westport, Connecticut"},"sameAs":["https://joshpopkin.com/","https://positionstrategygroup.com/","https://www.amazon.com/Play-Offense-Customers-features-edge/dp/B0H6YDD539","https://www.linkedin.com/in/joshpaulpopkin/","https://www.instagram.com/joshpopkinct/","https://music.apple.com/us/artist/josh-popkin/1730161476","https://joshpopkincarteragency.com/"]},{"@type":"WebSite","@id":"https://www.joshpaulpopkin.com/#website","url":"https://www.joshpaulpopkin.com/","name":"Josh Paul Popkin","description":"Cornell MBA and Marketing Engineer focused on helping businesses leverage AI to become the recommended brand in ChatGPT, Google AI Overviews, and Gemini.","inLanguage":"en-US","publisher":{"@id":"https://www.joshpaulpopkin.com/#josh"},"about":{"@id":"https://www.joshpaulpopkin.com/#josh"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.joshpaulpopkin.com/"},{"@type":"ListItem","position":2,"name":"Perspectives","item":"https://www.joshpaulpopkin.com/blog"},{"@type":"ListItem","position":3,"name":"How Do We Handle KYC for Autonomous Corporate Agents?","item":"https://www.joshpaulpopkin.com/post/how-do-we-handle-kyc-for-autonomous-corporate-agents"}]}]}</script>
+</head>
+<body>
+<header class="mast">
+  <div class="topline">
+    <span class="mono"><i class="dot"></i>New York, NY</span>
+    <span class="mono" id="today"></span>
+  </div>
+  <a class="name" href="/">Josh Paul Popkin</a>
+  <p class="tag">Entrepreneur, Marketing Engineer &amp; Author</p>
+  <nav class="menu" aria-label="Site">
+    <a href="/">Home</a>
+    <a href="/blog" aria-current="page">Perspectives</a>
+    <a href="/about/">About</a>
+  </nav>
+</header>
+<main>
+<article class="art">
+  <header class="art-head">
+    <p class="kicker mono"><i class="dot"></i>AI Agents</p>
+    <h1>How Do We Handle KYC for Autonomous Corporate Agents?</h1>
+    <p class="dek">Rethinking identity verification in agentic finance</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">May 25, 2026 &middot; 6 min read</span></div>
+  </header>
+  <figure class="hero"><img src="/images/how-do-we-handle-kyc-for-autonomous-corporate-agents/how-do-we-handle-kyc-for-autonomous-corporate-agents-1.jpg" alt="How Do We Handle KYC for Autonomous Corporate Agents?" width="1254" height="1254" decoding="async" fetchpriority="high"></figure>
+  <div class="body">
+<p>For decades, financial identity systems have relied on a simple assumption:</p>
+<blockquote>
+<p>there is a human on the other side of the transaction.</p>
+</blockquote>
+<p>Know Your Customer (KYC) frameworks were built to answer familiar questions:</p>
+<blockquote>
+<p>Who are you?</p>
+</blockquote>
+<blockquote>
+<p>Are you authorized to transact?</p>
+</blockquote>
+<blockquote>
+<p>Are you a sanctioned or risky counterparty?</p>
+</blockquote>
+<blockquote>
+<p>Who ultimately owns or controls this account?¹</p>
+</blockquote>
+<p>The operating model was straightforward.</p>
+<p>A person opens an account. A company verifies beneficial ownership. A regulated institution performs identity checks. Permissions flow from verified legal actors.</p>
+<p>Autonomous AI systems complicate this model.</p>
+<p>Because increasingly, software may initiate actions traditionally reserved for employees:</p>
+<ul>
+<li><p>purchasing software licenses</p>
+</li>
+<li><p>paying vendors</p>
+</li>
+<li><p>managing procurement</p>
+</li>
+<li><p>initiating treasury actions</p>
+</li>
+<li><p>reconciling payments</p>
+</li>
+<li><p>executing financial workflows</p>
+</li>
+</ul>
+<p>This introduces a new infrastructure problem:</p>
+<blockquote>
+<p><strong>How do we verify an autonomous system acting on behalf of a company?</strong></p>
+</blockquote>
+<p>More specifically:</p>
+<blockquote>
+<p><strong>How do we handle KYC for autonomous corporate agents?</strong></p>
+</blockquote>
+<p>The answer is likely not:</p>
+<blockquote>
+<p>KYC the AI.</p>
+</blockquote>
+<p>The answer is:</p>
+<blockquote>
+<p><strong>verify delegated authority.</strong></p>
+</blockquote>
+<h2 id="traditional-kyc-assumptions-begin-to-break">Traditional KYC assumptions begin to break</h2>
+<p>Modern KYC frameworks assume accountable legal actors.</p>
+<p>A regulated institution generally verifies:</p>
+<ul>
+<li><p>a natural person</p>
+</li>
+<li><p>a legal entity</p>
+</li>
+<li><p>beneficial ownership</p>
+</li>
+<li><p>authorized signatories</p>
+</li>
+<li><p>sources of funds</p>
+</li>
+<li><p>sanctions exposure¹²</p>
+</li>
+</ul>
+<p>Identity verification mechanisms reflect this assumption.</p>
+<p>Passports.</p>
+<p>Biometrics.</p>
+<p>Government IDs.</p>
+<p>Tax identifiers.</p>
+<p>Corporate registration documents.</p>
+<p>But autonomous agents possess none of these.</p>
+<p>An AI procurement system has:</p>
+<ul>
+<li><p>no legal identity</p>
+</li>
+<li><p>no passport</p>
+</li>
+<li><p>no beneficial ownership</p>
+</li>
+<li><p>no independent accountability</p>
+</li>
+</ul>
+<p>Yet in emerging financial systems, agents may still be authorized to:</p>
+<blockquote>
+<p>move money</p>
+</blockquote>
+<blockquote>
+<p>issue payments</p>
+</blockquote>
+<blockquote>
+<p>transact with vendors</p>
+</blockquote>
+<blockquote>
+<p>trigger procurement workflows</p>
+</blockquote>
+<p>This creates a conceptual mismatch.</p>
+<p>Traditional KYC verifies:</p>
+<blockquote>
+<p><strong>who you are</strong></p>
+</blockquote>
+<p>Agentic finance increasingly requires systems to verify:</p>
+<blockquote>
+<p><strong>who authorized you to act</strong></p>
+</blockquote>
+<p>That distinction matters.</p>
+<p>Because autonomous systems are not economic principals.</p>
+<p>They are delegated operators.</p>
+<h2 id="the-misconception-kyc-the-ai">The misconception: “KYC the AI”</h2>
+<p>One of the more common framing errors around agentic commerce is the assumption that AI agents themselves require traditional identity verification.</p>
+<p>This framing is likely incorrect.</p>
+<p>An autonomous corporate agent is not a legal person.</p>
+<p>It cannot independently:</p>
+<ul>
+<li><p>own assets</p>
+</li>
+<li><p>bear liability</p>
+</li>
+<li><p>satisfy regulatory obligations</p>
+</li>
+<li><p>assume fiduciary responsibility</p>
+</li>
+</ul>
+<p>Instead, autonomous agents function more like software employees operating under delegated authority.</p>
+<p>A better mental model looks like:</p>
+<blockquote>
+<p><strong>Human identity → corporate verification → delegated permissions → agent execution</strong>³</p>
+</blockquote>
+<p>In practice:</p>
+<p>The company is verified.</p>
+<p>Responsible humans are verified.</p>
+<p>Authority is delegated to software operating inside clearly defined boundaries.</p>
+<p>This looks far closer to enterprise authorization systems than consumer identity verification.</p>
+<p>A useful comparison is enterprise SaaS.</p>
+<p>An employee does not receive unlimited system access simply because employment exists.</p>
+<p>Permissions are assigned.</p>
+<p>Access is constrained.</p>
+<p>Authority is revocable.</p>
+<p>Financial systems increasingly appear headed toward a similar model for autonomous software.</p>
+<h2 id="identity-shifts-from-personhood-to-authorization">Identity shifts from personhood to authorization</h2>
+<p>The deeper implication is that identity infrastructure may evolve from proving personhood toward proving authorization.</p>
+<p>Historically:</p>
+<blockquote>
+<p>identity = authentication</p>
+</blockquote>
+<p>Increasingly:</p>
+<blockquote>
+<p>identity = authenticated delegation</p>
+</blockquote>
+<p>In other words:</p>
+<p>The critical question becomes:</p>
+<blockquote>
+<p><strong>What is this agent allowed to do, who approved it, and under what constraints?</strong></p>
+</blockquote>
+<p>A compliant architecture for autonomous financial agents would likely require:</p>
+<h3 id="verified-corporate-identity">Verified corporate identity</h3>
+<p>The underlying company still undergoes standard onboarding:</p>
+<ul>
+<li><p>KYB (Know Your Business)</p>
+</li>
+<li><p>beneficial ownership verification</p>
+</li>
+<li><p>sanctions screening</p>
+</li>
+<li><p>AML controls¹²</p>
+</li>
+</ul>
+<p>Nothing changes at this layer.</p>
+<h3 id="verified-human-authority">Verified human authority</h3>
+<p>Specific individuals remain accountable.</p>
+<p>Examples:</p>
+<ul>
+<li><p>CFO</p>
+</li>
+<li><p>controller</p>
+</li>
+<li><p>procurement lead</p>
+</li>
+<li><p>treasury operator</p>
+</li>
+</ul>
+<p>These humans delegate permissions to software agents.</p>
+<p>Accountability remains human.</p>
+<h3 id="scoped-permissions">Scoped permissions</h3>
+<p>Agents receive narrowly bounded authority.</p>
+<p>Examples:</p>
+<ul>
+<li><p>merchant restrictions</p>
+</li>
+<li><p>spend thresholds</p>
+</li>
+<li><p>task limitations</p>
+</li>
+<li><p>expiration windows</p>
+</li>
+<li><p>geography restrictions</p>
+</li>
+<li><p>transaction categories⁴</p>
+</li>
+</ul>
+<p>The system shifts from:</p>
+<blockquote>
+<p>unrestricted autonomy</p>
+</blockquote>
+<p>to:</p>
+<blockquote>
+<p><strong>policy-constrained execution</strong></p>
+</blockquote>
+<h3 id="revocable-authority">Revocable authority</h3>
+<p>Permissions must be reversible immediately.</p>
+<p>If:</p>
+<ul>
+<li><p>suspicious behavior occurs</p>
+</li>
+<li><p>an employee leaves</p>
+</li>
+<li><p>a policy changes</p>
+</li>
+<li><p>an agent malfunctions</p>
+</li>
+</ul>
+<p>access should disappear instantly.⁵</p>
+<p>This increasingly resembles the principle of <strong>least privilege</strong>, a long-standing cybersecurity model in which systems receive only the minimum access necessary to complete a task.⁶</p>
+<p>Agentic finance appears likely to inherit this philosophy.</p>
+<h2 id="the-emerging-trust-architecture-for-corporate-agents">The emerging trust architecture for corporate agents</h2>
+<p>If autonomous corporate agents become common, KYC infrastructure will likely evolve into something closer to <strong>machine trust infrastructure</strong>.</p>
+<p>Several patterns are already emerging.</p>
+<h3 id="delegated-credentials">Delegated credentials</h3>
+<p>Instead of storing raw payment credentials, agents receive scoped access tokens or temporary permissions tied to approved workflows.⁴</p>
+<p>An AI procurement system may receive authorization to:</p>
+<blockquote>
+<p>renew cloud software subscriptions</p>
+</blockquote>
+<p>without gaining authority to:</p>
+<blockquote>
+<p>initiate treasury transfers</p>
+</blockquote>
+<p>This distinction becomes operationally important.</p>
+<h3 id="cryptographic-authentication">Cryptographic authentication</h3>
+<p>Agent actions increasingly require verifiable provenance:</p>
+<blockquote>
+<p>Which agent initiated this request?</p>
+</blockquote>
+<blockquote>
+<p>Which company authorized it?</p>
+</blockquote>
+<blockquote>
+<p>Which human approved the delegation?</p>
+</blockquote>
+<p>Emerging architectures increasingly rely on cryptographic identity systems, signed credentials, and policy frameworks to prove trusted execution.³⁵</p>
+<h3 id="auditability-and-observability">Auditability and observability</h3>
+<p>Autonomous execution without traceability is unlikely to survive compliance review.</p>
+<p>Every action must remain observable:</p>
+<ul>
+<li><p>transaction history</p>
+</li>
+<li><p>approval trails</p>
+</li>
+<li><p>permission logs</p>
+</li>
+<li><p>revocation history</p>
+</li>
+<li><p>behavioral monitoring⁵</p>
+</li>
+</ul>
+<p>In regulated finance:</p>
+<blockquote>
+<p>explainability matters</p>
+</blockquote>
+<p>The future compliance question becomes:</p>
+<blockquote>
+<p><strong>Why did this agent take this action?</strong></p>
+</blockquote>
+<p>not:</p>
+<blockquote>
+<p>Did AI make a decision?</p>
+</blockquote>
+<h3 id="zero-trust-assumptions">Zero-trust assumptions</h3>
+<p>Security frameworks increasingly assume:</p>
+<blockquote>
+<p>systems fail</p>
+</blockquote>
+<p>This is important.</p>
+<p>Agentic finance will likely optimize around <strong>bounded failure</strong>, not perfect intelligence.⁵</p>
+<p>The assumption becomes:</p>
+<blockquote>
+<p>an agent may eventually make mistakes</p>
+</blockquote>
+<p>Therefore:</p>
+<blockquote>
+<p>permissions, monitoring, escalation paths, and controls matter more than raw autonomy.</p>
+</blockquote>
+<h2 id="what-a-compliant-autonomous-corporate-agent-might-actually-look-like">What a compliant autonomous corporate agent might actually look like</h2>
+<p>Imagine a procurement agent inside a mid-market software company.</p>
+<p>Its job:</p>
+<blockquote>
+<p>renew approved SaaS contracts.</p>
+</blockquote>
+<p>The permission model may look something like:</p>
+<p><strong>Authorized by:</strong> CFO of Acme Inc.</p>
+<p><strong>Purpose:</strong> SaaS procurement only</p>
+<p><strong>Spend threshold:</strong> $500 per transaction</p>
+<p><strong>Allowed merchants:</strong> AWS, Datadog, OpenAI, Notion</p>
+<p><strong>Escalation rule:</strong> Human approval required above threshold</p>
+<p><strong>Expiration:</strong> 30 days</p>
+<p><strong>Auditability:</strong> Full logging enabled</p>
+<p><strong>Revocation:</strong> Immediate</p>
+<p>Notice something important:</p>
+<p>The system never “KYC’d the AI.”</p>
+<p>Instead:</p>
+<blockquote>
+<p><strong>it verified authority surrounding the AI</strong></p>
+</blockquote>
+<p>That distinction feels foundational.</p>
+<h2 id="why-this-matters-for-fintech">Why this matters for fintech</h2>
+<p>Much of the discussion around agentic commerce focuses on intelligence.</p>
+<p>How capable are the models?</p>
+<p>Can agents negotiate?</p>
+<p>Can agents transact?</p>
+<p>Those questions matter.</p>
+<p>But in financial services, trust infrastructure may matter more.</p>
+<p>The hard problem is unlikely to be:</p>
+<blockquote>
+<p>can software spend money?</p>
+</blockquote>
+<p>The harder problem becomes:</p>
+<blockquote>
+<p><strong>how do institutions trust software to spend money safely?</strong></p>
+</blockquote>
+<p>That is ultimately a KYC, authorization, and identity problem.</p>
+<p>And increasingly, fintech infrastructure appears to be moving toward:</p>
+<blockquote>
+<p><strong>verified, observable, delegated software execution</strong></p>
+</blockquote>
+<p>rather than:</p>
+<blockquote>
+<p>autonomous financial actors.</p>
+</blockquote>
+<h2 id="a-pmm-takeaway">A PMM takeaway</h2>
+<p>The strongest fintech companies in this category are unlikely to position themselves around:</p>
+<blockquote>
+<p>autonomous finance</p>
+</blockquote>
+<p>or:</p>
+<blockquote>
+<p>AI agents that transact</p>
+</blockquote>
+<p>The more compelling narrative is:</p>
+<blockquote>
+<p><strong>trusted execution within human-defined boundaries</strong></p>
+</blockquote>
+<p>Because buyers rarely purchase autonomy.</p>
+<p>They purchase:</p>
+<ul>
+<li><p>control</p>
+</li>
+<li><p>compliance</p>
+</li>
+<li><p>accountability</p>
+</li>
+<li><p>reduced operational friction</p>
+</li>
+</ul>
+<p>The companies that win this category will not merely enable AI agents to transact.</p>
+<p>They will make institutions comfortable letting them transact.</p>
+<h2 id="footnotes">Footnotes</h2>
+<ol>
+<li><p>Financial Action Task Force (FATF) Digital Identity Guidance</p>
+</li>
+<li><p>FinCEN Customer Due Diligence Requirements</p>
+</li>
+<li><p><a href="https://pages.nist.gov/800-63-3/?utm_source=chatgpt.com">National Institute of Standards and Technology (NIST) Digital Identity Guidelines</a></p>
+</li>
+<li><p><a href="https://stripe.com/blog/giving-agents-the-ability-to-pay?utm_source=chatgpt.com">Stripe: Giving Agents the Ability to Pay</a></p>
+</li>
+<li><p><a href="https://csrc.nist.gov/pubs/sp/800/207/final?utm_source=chatgpt.com">NIST Zero Trust Architecture</a></p>
+</li>
+<li><p><a href="https://csrc.nist.gov/glossary/term/least_privilege?utm_source=chatgpt.com">NIST Least Privilege Principle</a></p>
+</li>
+</ol>
+<p>Written by Josh Popkin. Published May 25, 2026.</p>
+<p><strong>Disclaimer:</strong> The views expressed here are my own and are intended for informational purposes only. Nothing on this site constitutes financial, investment, or legal advice. Please do your own research and consult appropriate professionals when making decisions.</p>
+
+  </div>
+  <footer class="art-end"><i class="dot"></i></footer>
+</article>
+<section class="about rv" id="about">
+  <a class="portrait" href="/about/"><img src="/josh-popkin-headshot-2026.jpg" alt="Josh Popkin" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>About the author</p>
+    <h2>Josh Paul Popkin</h2>
+    <p class="bio">Josh Popkin is an American entrepreneur, marketing engineer, and author. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. He is the author of the book <em>Play Offense</em>, published on Amazon. Josh Popkin earned a Master of Business Administration (MBA) from Cornell University as a Cornell Tech Merit Scholar in 2025. He earned a Bachelor of Science from Bucknell University in 2018.</p>
+    <ul class="links"><li><a href="https://joshpopkin.com/" rel="me">joshpopkin.com</a></li><li><a href="https://positionstrategygroup.com/" rel="me">Position Strategy Group</a></li><li><a href="https://www.amazon.com/Play-Offense-Customers-features-edge/dp/B0H6YDD539" rel="me">Play Offense on Amazon</a></li><li><a href="https://www.linkedin.com/in/joshpaulpopkin/" rel="me">LinkedIn</a></li><li><a href="https://www.instagram.com/joshpopkinct/" rel="me">Instagram</a></li><li><a href="https://music.apple.com/us/artist/josh-popkin/1730161476" rel="me">Apple Music</a></li><li><a href="https://joshpopkincarteragency.com/" rel="me">Carter Agency</a></li></ul>
+  </div>
+</section>
+<section class="more"><h2 class="sect">More articles</h2><article class="card rv">
+  <a class="pic" href="/post/josh-popkin-press-update-september-19-2026"><img src="/images/josh-popkin-press-update-september-19-2026/josh-popkin-press-update-september-19-2026-card.jpg" alt="Josh Popkin in sunglasses holding a dog at the Greenwich Polo Club, with the title Press Update, September 19, 2026" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Press Update</p>
+    <h3><a href="/post/josh-popkin-press-update-september-19-2026">Josh Popkin Press Update, September 19, 2026: Building a Public Record</a></h3>
+    <p class="dek">In a week of launches, rebuilds and new writing, Popkin put much of his past work into a public record while continuing to build tools around AI search.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">September 19, 2026 &middot; 4 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/google-s-page-one-for-drake-shows-what-search-rewards"><img src="/images/google-s-page-one-for-drake-shows-what-search-rewards/google-s-page-one-for-drake-shows-what-search-rewards-card.jpg" alt="Josh Popkin, with the title Google's Page One" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Search</p>
+    <h3><a href="/post/google-s-page-one-for-drake-shows-what-search-rewards">Google's Page One for 'Drake' on September 19, 2026 Shows What Search Rewards</a></h3>
+    <p class="dek">A search for one of the world's most-followed artists shows that Google often gives the week's activity, other people's posts and platform-specific signals more space than an official website or a settled biography.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">September 19, 2026 &middot; 7 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search"><img src="/images/how-did-westport-family-homes-improve-its-visibility-in-ai-search/how-did-westport-family-homes-improve-its-visibility-in-ai-s-card.jpg" alt="Josh Popkin, with the title Westport Family Homes" width="1280" height="1600" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>AI Search</p>
+    <h3><a href="/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search">How Did Westport Family Homes Improve Its Visibility in AI Search?</a></h3>
+    <p class="dek">In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear example of the kind of…</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">August 18, 2026 &middot; 5 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/what-is-josh-popkin-s-book-play-offense-about-1"><img src="/images/what-is-josh-popkin-s-book-play-offense-about-1/what-is-josh-popkin-s-book-play-offense-about-1-card.jpg" alt="Josh Popkin, with the title Play Offense, Explained" width="1280" height="1600" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Entrepreneurship</p>
+    <h3><a href="/post/what-is-josh-popkin-s-book-play-offense-about-1">What Is Josh Popkin's Book &quot;Play Offense&quot; About?</a></h3>
+    <p class="dek">Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">August 12, 2026 &middot; 4 min read</span></div>
+  </div>
+</article></section>
+</main>
+<footer class="foot">
+  <span class="mono">2026 &copy; Josh Paul Popkin</span>
+  <nav aria-label="Footer">
+    <a href="/blog">Perspectives</a>
+    <a href="/about/">About</a>
+    <a href="https://positionstrategygroup.com/" rel="me">Position Strategy Group</a>
+    <a href="https://joshpopkin.com/" rel="me">joshpopkin.com</a>
+    <a href="https://joshpopkincarteragency.com/" rel="me">Carter Agency</a>
+  </nav>
+</footer>
+<script>
+document.getElementById('today').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+(function(){var els=document.querySelectorAll('.rv');if(!('IntersectionObserver'in window)){els.forEach(function(e){e.classList.add('in')});return}
+var io=new IntersectionObserver(function(en){en.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{rootMargin:'0px 0px -8% 0px'});
+els.forEach(function(e){io.observe(e)})})();
+</script>
+</body>
+</html>

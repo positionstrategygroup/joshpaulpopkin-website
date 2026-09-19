@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How Does an AI Agent Actually Run M&amp;A? — Josh Paul Popkin</title>
+<meta name="description" content="What OffDeal reveals about the future of investment banking">
+<link rel="canonical" href="https://www.joshpaulpopkin.com/post/how-does-an-ai-agent-actually-run-m-a">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="author" content="Josh Paul Popkin">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="alternate" type="application/rss+xml" title="Josh Paul Popkin" href="/rss.xml">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Josh Paul Popkin">
+<meta property="og:title" content="How Does an AI Agent Actually Run M&amp;A?">
+<meta property="og:description" content="What OffDeal reveals about the future of investment banking">
+<meta property="og:url" content="https://www.joshpaulpopkin.com/post/how-does-an-ai-agent-actually-run-m-a">
+<meta property="og:image" content="https://www.joshpaulpopkin.com/images/how-does-an-ai-agent-actually-run-m-a/how-does-an-ai-agent-actually-run-m-a-1.jpg">
+<meta property="og:image:width" content="1254">
+<meta property="og:image:height" content="1254">
+<meta property="article:published_time" content="2026-05-25">
+<meta property="article:modified_time" content="2026-05-25">
+<meta property="article:author" content="Josh Paul Popkin">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How Does an AI Agent Actually Run M&amp;A?">
+<meta name="twitter:description" content="What OffDeal reveals about the future of investment banking">
+<meta name="twitter:image" content="https://www.joshpaulpopkin.com/images/how-does-an-ai-agent-actually-run-m-a/how-does-an-ai-agent-actually-run-m-a-1.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css?v=633cbc4e">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.joshpaulpopkin.com/post/how-does-an-ai-agent-actually-run-m-a#article","headline":"How Does an AI Agent Actually Run M&A?","alternativeHeadline":"What OffDeal reveals about the future of investment banking","description":"What OffDeal reveals about the future of investment banking","image":[{"@type":"ImageObject","url":"https://www.joshpaulpopkin.com/images/how-does-an-ai-agent-actually-run-m-a/how-does-an-ai-agent-actually-run-m-a-1.jpg","width":1254,"height":1254,"caption":"How Does an AI Agent Actually Run M&A?"}],"datePublished":"2026-05-25","dateModified":"2026-05-25","inLanguage":"en-US","isAccessibleForFree":true,"wordCount":1177,"articleSection":"AI","keywords":"AI, AI Agents","author":{"@id":"https://www.joshpaulpopkin.com/#josh"},"publisher":{"@id":"https://www.joshpaulpopkin.com/#josh"},"mainEntityOfPage":{"@id":"https://www.joshpaulpopkin.com/post/how-does-an-ai-agent-actually-run-m-a"},"isPartOf":{"@id":"https://www.joshpaulpopkin.com/#website"}},{"@type":"Person","@id":"https://www.joshpaulpopkin.com/#josh","name":"Josh Paul Popkin","alternateName":["Josh Popkin","Joshua Paul Popkin"],"givenName":"Josh","additionalName":"Paul","familyName":"Popkin","url":"https://www.joshpaulpopkin.com/about/","image":{"@type":"ImageObject","url":"https://www.joshpaulpopkin.com/josh-popkin-headshot-2026-square.jpg","width":1024,"height":1024},"jobTitle":"Founder, Marketing Engineer and Author","description":"Josh Popkin is an American entrepreneur, marketing engineer, and author. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. He is the author of the book Play Offense, published on Amazon. Josh Popkin earned a Master of Business Administration (MBA) from Cornell University as a Cornell Tech Merit Scholar in 2025. He earned a Bachelor of Science from Bucknell University in 2018.","worksFor":{"@id":"https://positionstrategygroup.com/#organization"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"Cornell University"},{"@type":"CollegeOrUniversity","name":"Bucknell University"}],"hasOccupation":{"@type":"Occupation","name":"Marketing engineer"},"homeLocation":{"@type":"Place","name":"New York, NY"},"birthPlace":{"@type":"Place","name":"Westport, Connecticut"},"sameAs":["https://joshpopkin.com/","https://positionstrategygroup.com/","https://www.amazon.com/Play-Offense-Customers-features-edge/dp/B0H6YDD539","https://www.linkedin.com/in/joshpaulpopkin/","https://www.instagram.com/joshpopkinct/","https://music.apple.com/us/artist/josh-popkin/1730161476","https://joshpopkincarteragency.com/"]},{"@type":"WebSite","@id":"https://www.joshpaulpopkin.com/#website","url":"https://www.joshpaulpopkin.com/","name":"Josh Paul Popkin","description":"Cornell MBA and Marketing Engineer focused on helping businesses leverage AI to become the recommended brand in ChatGPT, Google AI Overviews, and Gemini.","inLanguage":"en-US","publisher":{"@id":"https://www.joshpaulpopkin.com/#josh"},"about":{"@id":"https://www.joshpaulpopkin.com/#josh"}},{"@type":"FAQPage","@id":"https://www.joshpaulpopkin.com/post/how-does-an-ai-agent-actually-run-m-a#faq","mainEntity":[{"@type":"Question","name":"First: what does OffDeal actually do?","acceptedAnswer":{"@type":"Answer","text":"OffDeal focuses on sell-side M&A for small and mid-sized businesses.¹"}},{"@type":"Question","name":"So what does AI actually automate?","acceptedAnswer":{"@type":"Answer","text":"This is where things become interesting."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.joshpaulpopkin.com/"},{"@type":"ListItem","position":2,"name":"Perspectives","item":"https://www.joshpaulpopkin.com/blog"},{"@type":"ListItem","position":3,"name":"How Does an AI Agent Actually Run M&A?","item":"https://www.joshpaulpopkin.com/post/how-does-an-ai-agent-actually-run-m-a"}]}]}</script>
+</head>
+<body>
+<header class="mast">
+  <div class="topline">
+    <span class="mono"><i class="dot"></i>New York, NY</span>
+    <span class="mono" id="today"></span>
+  </div>
+  <a class="name" href="/">Josh Paul Popkin</a>
+  <p class="tag">Entrepreneur, Marketing Engineer &amp; Author</p>
+  <nav class="menu" aria-label="Site">
+    <a href="/">Home</a>
+    <a href="/blog" aria-current="page">Perspectives</a>
+    <a href="/about/">About</a>
+  </nav>
+</header>
+<main>
+<article class="art">
+  <header class="art-head">
+    <p class="kicker mono"><i class="dot"></i>AI</p>
+    <h1>How Does an AI Agent Actually Run M&amp;A?</h1>
+    <p class="dek">What OffDeal reveals about the future of investment banking</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">May 25, 2026 &middot; 5 min read</span></div>
+  </header>
+  <figure class="hero"><img src="/images/how-does-an-ai-agent-actually-run-m-a/how-does-an-ai-agent-actually-run-m-a-1.jpg" alt="How Does an AI Agent Actually Run M&amp;A?" width="1254" height="1254" decoding="async" fetchpriority="high"></figure>
+  <div class="body">
+<h3 id="what-offdeal-reveals-about-the-future-of-investment-banking">What OffDeal reveals about the future of investment banking</h3>
+<p>When most people hear the phrase:</p>
+<blockquote>
+<p><strong>AI investment bank</strong></p>
+</blockquote>
+<p>the immediate reaction is skepticism.</p>
+<p>M&amp;A feels too human. Too relationship-driven. Too high-stakes.</p>
+<p>Selling a business is often one of the largest financial events in someone’s life.</p>
+<p>So when I came across <a href="https://offdeal.io?utm_source=chatgpt.com">OffDeal</a> — a Y Combinator-backed startup describing itself as an <strong>“AI-native investment bank”</strong> — my first reaction was simple:</p>
+<blockquote>
+<p>**What does that actually mean?**¹</p>
+</blockquote>
+<p>More specifically:</p>
+<blockquote>
+<p><strong>How does an AI agent actually run M&amp;A?</strong></p>
+</blockquote>
+<p>The answer is more interesting than:</p>
+<blockquote>
+<p>“AI replaces bankers.”</p>
+</blockquote>
+<p>Because that is not really what appears to be happening.</p>
+<p>Instead, OffDeal reveals something broader:</p>
+<p>**AI may compress investment banking workflows far more than it replaces investment bankers.**¹²</p>
+<h2 id="first-what-does-offdeal-actually-do">First: what does OffDeal actually do?</h2>
+<p>OffDeal focuses on sell-side M&amp;A for small and mid-sized businesses.¹</p>
+<p>In simple terms:</p>
+<p>If a founder wants to sell a company, OffDeal helps run the process.</p>
+<p>Traditionally, this work belongs to investment banks or boutique M&amp;A advisory firms.</p>
+<p>That process is notoriously labor intensive.</p>
+<p>Analysts build buyer lists.</p>
+<p>Associates prepare pitch decks.</p>
+<p>Teams draft confidential information memoranda (CIMs).</p>
+<p>Junior bankers coordinate diligence requests.</p>
+<p>Senior bankers manage negotiations.</p>
+<p>Much of M&amp;A is actually workflow.</p>
+<p>OffDeal’s thesis is:</p>
+<blockquote>
+<p>**what if software handled most of the repetitive work?**¹²</p>
+</blockquote>
+<p>The company describes itself as an AI-native investment bank where internal software automates much of the analyst-heavy work traditionally required for small-business M&amp;A, allowing bankers to focus more on client strategy and execution.¹³</p>
+<p>That distinction matters.</p>
+<p>Because OffDeal is not selling:</p>
+<blockquote>
+<p>software for bankers</p>
+</blockquote>
+<p>It is trying to build:</p>
+<blockquote>
+<p><strong>an investment bank built around software</strong></p>
+</blockquote>
+<h2 id="the-misconception-ai-is-not-doing-the-deal">The misconception: AI is not “doing the deal”</h2>
+<p>The easiest way to misunderstand OffDeal is to imagine an autonomous AI agent independently negotiating acquisitions.</p>
+<p>That is not what appears to be happening.²</p>
+<p>Instead:</p>
+<blockquote>
+<p>humans still run the transaction</p>
+</blockquote>
+<p>The better mental model is:</p>
+<blockquote>
+<p><strong>AI handles deal operations</strong></p>
+</blockquote>
+<p>while humans handle:</p>
+<ul>
+<li><p>trust</p>
+</li>
+<li><p>negotiation</p>
+</li>
+<li><p>pricing judgment</p>
+</li>
+<li><p>founder psychology</p>
+</li>
+<li><p>relationship management</p>
+</li>
+</ul>
+<p>In interviews, OffDeal leadership repeatedly emphasizes that customers still interact with human advisers rather than software directly.²</p>
+<p>That is probably important.</p>
+<p>Because selling a company is not like booking a flight.</p>
+<p>No founder wants:</p>
+<blockquote>
+<p>“your AI sale completed successfully”</p>
+</blockquote>
+<p>without human oversight.</p>
+<p>The highest-stakes moments remain deeply human.</p>
+<h2 id="so-what-does-ai-actually-automate">So what does AI actually automate?</h2>
+<p>This is where things become interesting.</p>
+<p>When people think of M&amp;A, they often imagine negotiation.</p>
+<p>But much of investment banking consists of repeatable operational work.</p>
+<p>OffDeal appears to automate large parts of this workflow.²⁴</p>
+<h3 id="1-buyer-discovery">1. Buyer discovery</h3>
+<p>Historically, identifying likely buyers is painfully manual.</p>
+<p>Bankers rely on internal networks, industry research, spreadsheets, and prior relationships.</p>
+<p>OffDeal instead appears to use AI systems and internal data models to identify acquisition targets and buyer matches at scale.²⁵</p>
+<p>In demos described publicly, the platform ingests company information and generates long lists of potential strategic or institutional buyers based on sector fit, acquisition history, operating profile, and other signals.²</p>
+<p>The workflow changes from:</p>
+<blockquote>
+<p>weeks of manual research</p>
+</blockquote>
+<p>to:</p>
+<blockquote>
+<p>algorithmic buyer discovery</p>
+</blockquote>
+<p>This is a meaningful efficiency gain.</p>
+<p>Because good buyer targeting often determines deal outcomes.</p>
+<h3 id="2-pitch-materials-and-cim-creation">2. Pitch materials and CIM creation</h3>
+<p>Investment banking is surprisingly document-heavy.</p>
+<p>One of the most time-consuming activities in sell-side M&amp;A is creating materials:</p>
+<ul>
+<li><p>teaser documents</p>
+</li>
+<li><p>buyer outreach materials</p>
+</li>
+<li><p>financial narratives</p>
+</li>
+<li><p>confidential information memoranda (CIMs)</p>
+</li>
+</ul>
+<p>These often require analysts to gather operational data, summarize financials, organize company narratives, and revise slides repeatedly.</p>
+<p>OffDeal claims its systems automate much of this process.¹²</p>
+<p>Instead of analysts manually formatting decks for weeks:</p>
+<blockquote>
+<p>AI drafts the first version</p>
+</blockquote>
+<p>That does not eliminate review.</p>
+<p>But it likely compresses production time dramatically.</p>
+<h3 id="3-deal-orchestration">3. Deal orchestration</h3>
+<p>A surprising amount of M&amp;A is coordination.</p>
+<p>Who signed the NDA?</p>
+<p>Who accessed the data room?</p>
+<p>Who responded to outreach?</p>
+<p>Who missed a deadline?</p>
+<p>Who requested diligence?</p>
+<p>Traditional deal teams spend enormous time tracking process logistics.</p>
+<p>OffDeal appears to automate much of this coordination layer through internal workflow systems and CRM infrastructure.⁴</p>
+<p>This may sound boring.</p>
+<p>But operational slowness compounds quickly in M&amp;A.</p>
+<p>Reducing friction matters.</p>
+<h3 id="4-buyer-outreach-and-auction-management">4. Buyer outreach and auction management</h3>
+<p>Running a sale process resembles project management more than people realize.</p>
+<p>Potential acquirers receive teasers.</p>
+<p>Follow-ups happen.</p>
+<p>Questions emerge.</p>
+<p>Bids evolve.</p>
+<p>Deadlines move.</p>
+<p>OffDeal appears to automate portions of bidder communication and process tracking while bankers oversee execution.⁴</p>
+<p>Again:</p>
+<blockquote>
+<p>AI handles workflow</p>
+</blockquote>
+<p>Humans handle judgment.</p>
+<h2 id="why-small-business-m-amp-a-is-the-perfect-place-to-start">Why small business M&amp;A is the perfect place to start</h2>
+<p>One of the smartest things about OffDeal is probably market selection.</p>
+<p>Large enterprise investment banking already works economically.</p>
+<p>If you are selling a billion-dollar business:</p>
+<blockquote>
+<p>a five-person banker team makes sense</p>
+</blockquote>
+<p>For smaller businesses, the economics often break.⁴</p>
+<p>Traditional M&amp;A advisory models become expensive.</p>
+<p>Many small companies simply cannot justify large advisory fees or extensive banker hours.</p>
+<p>That leaves a long tail of businesses underserved.</p>
+<p>OffDeal targets precisely this market.</p>
+<p>Companies often too small for traditional investment banking attention but large enough for meaningful exits.¹⁴</p>
+<p>In that sense, the company looks less like:</p>
+<blockquote>
+<p>“AI replacing Wall Street”</p>
+</blockquote>
+<p>and more like:</p>
+<blockquote>
+<p><strong>software expanding access to investment banking</strong></p>
+</blockquote>
+<p>That framing feels more believable.</p>
+<h2 id="the-deeper-implication-investment-banking-may-become-a-workflow-business">The deeper implication: investment banking may become a workflow business</h2>
+<p>What makes OffDeal interesting is not simply AI.</p>
+<p>It is what AI reveals about investment banking itself.</p>
+<p>Historically, banks operated through labor leverage.</p>
+<p>Analysts → associates → vice presidents → managing directors.</p>
+<p>Much of the pyramid exists because junior teams perform operational work.</p>
+<p>OffDeal asks a provocative question:</p>
+<blockquote>
+<p>**What if software becomes the junior team?**⁴</p>
+</blockquote>
+<p>Some reporting suggests the firm operates unusually lean deal teams where automation compresses work traditionally spread across larger groups.⁴</p>
+<p>If true, that has implications beyond M&amp;A.</p>
+<p>Many high-cost professional services industries may be vulnerable to the same shift.</p>
+<p>Not replacement.</p>
+<p>Compression.</p>
+<h2 id="a-pmm-takeaway">A PMM takeaway</h2>
+<p>OffDeal highlights an important misconception around AI products:</p>
+<p>Customers rarely buy:</p>
+<blockquote>
+<p>AI automation</p>
+</blockquote>
+<p>They buy:</p>
+<blockquote>
+<p>outcomes</p>
+</blockquote>
+<p>In this case:</p>
+<ul>
+<li><p>faster exits</p>
+</li>
+<li><p>broader buyer discovery</p>
+</li>
+<li><p>lower process friction</p>
+</li>
+<li><p>more deal access</p>
+</li>
+<li><p>better sale outcomes</p>
+</li>
+</ul>
+<p>The strongest positioning is not:</p>
+<blockquote>
+<p>“AI-native investment bank”</p>
+</blockquote>
+<p>It is closer to:</p>
+<blockquote>
+<p><strong>sell your company faster, cheaper, and with broader buyer reach</strong></p>
+</blockquote>
+<p>Because in financial services, nobody wakes up wanting:</p>
+<blockquote>
+<p>more AI</p>
+</blockquote>
+<p>They want:</p>
+<blockquote>
+<p>less complexity</p>
+</blockquote>
+<p>And increasingly, that may be where the most interesting fintech products are heading.</p>
+<h2 id="footnotes">Footnotes</h2>
+<ol>
+<li><p><a href="https://offdeal.io/about-us?utm_source=chatgpt.com">OffDeal (Company Overview)</a>; <a href="https://www.ycombinator.com/companies/offdeal?utm_source=chatgpt.com">Y Combinator – OffDeal</a> </p>
+</li>
+<li><p><a href="https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/?utm_source=chatgpt.com">TechCrunch: OffDeal wants to help small businesses find big exits with AI agents</a> </p>
+</li>
+<li><p>OffDeal describes its model as automating analyst-heavy investment banking work so in-house advisers can focus on strategic interactions and execution.</p>
+</li>
+<li><p><a href="https://www.ft.com/content/9daf5c7e-e301-4b7d-809a-ff9fb336bdbc?utm_source=chatgpt.com">Financial Times: Behold the first AI-native investment bank</a>; <a href="https://radical.vc/building-the-first-ai-native-investment-bank/?utm_source=chatgpt.com">Radical Ventures on OffDeal</a> </p>
+</li>
+<li><p>OffDeal publicly describes using proprietary data and AI systems to discover, diligence, and match buyers and sellers at scale.</p>
+</li>
+<li><p>Small business M&amp;A remains structurally underserved because traditional advisory economics often favor larger deals.</p>
+</li>
+</ol>
+<p>Written by Josh Popkin. Published May 25, 2026.</p>
+
+  </div>
+  <footer class="art-end"><i class="dot"></i></footer>
+</article>
+<section class="about rv" id="about">
+  <a class="portrait" href="/about/"><img src="/josh-popkin-headshot-2026.jpg" alt="Josh Popkin" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>About the author</p>
+    <h2>Josh Paul Popkin</h2>
+    <p class="bio">Josh Popkin is an American entrepreneur, marketing engineer, and author. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. He is the author of the book <em>Play Offense</em>, published on Amazon. Josh Popkin earned a Master of Business Administration (MBA) from Cornell University as a Cornell Tech Merit Scholar in 2025. He earned a Bachelor of Science from Bucknell University in 2018.</p>
+    <ul class="links"><li><a href="https://joshpopkin.com/" rel="me">joshpopkin.com</a></li><li><a href="https://positionstrategygroup.com/" rel="me">Position Strategy Group</a></li><li><a href="https://www.amazon.com/Play-Offense-Customers-features-edge/dp/B0H6YDD539" rel="me">Play Offense on Amazon</a></li><li><a href="https://www.linkedin.com/in/joshpaulpopkin/" rel="me">LinkedIn</a></li><li><a href="https://www.instagram.com/joshpopkinct/" rel="me">Instagram</a></li><li><a href="https://music.apple.com/us/artist/josh-popkin/1730161476" rel="me">Apple Music</a></li><li><a href="https://joshpopkincarteragency.com/" rel="me">Carter Agency</a></li></ul>
+  </div>
+</section>
+<section class="more"><h2 class="sect">More articles</h2><article class="card rv">
+  <a class="pic" href="/post/josh-popkin-press-update-september-19-2026"><img src="/images/josh-popkin-press-update-september-19-2026/josh-popkin-press-update-september-19-2026-card.jpg" alt="Josh Popkin in sunglasses holding a dog at the Greenwich Polo Club, with the title Press Update, September 19, 2026" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Press Update</p>
+    <h3><a href="/post/josh-popkin-press-update-september-19-2026">Josh Popkin Press Update, September 19, 2026: Building a Public Record</a></h3>
+    <p class="dek">In a week of launches, rebuilds and new writing, Popkin put much of his past work into a public record while continuing to build tools around AI search.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">September 19, 2026 &middot; 4 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/google-s-page-one-for-drake-shows-what-search-rewards"><img src="/images/google-s-page-one-for-drake-shows-what-search-rewards/google-s-page-one-for-drake-shows-what-search-rewards-card.jpg" alt="Josh Popkin, with the title Google's Page One" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Search</p>
+    <h3><a href="/post/google-s-page-one-for-drake-shows-what-search-rewards">Google's Page One for 'Drake' on September 19, 2026 Shows What Search Rewards</a></h3>
+    <p class="dek">A search for one of the world's most-followed artists shows that Google often gives the week's activity, other people's posts and platform-specific signals more space than an official website or a settled biography.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">September 19, 2026 &middot; 7 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search"><img src="/images/how-did-westport-family-homes-improve-its-visibility-in-ai-search/how-did-westport-family-homes-improve-its-visibility-in-ai-s-card.jpg" alt="Josh Popkin, with the title Westport Family Homes" width="1280" height="1600" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>AI Search</p>
+    <h3><a href="/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search">How Did Westport Family Homes Improve Its Visibility in AI Search?</a></h3>
+    <p class="dek">In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear example of the kind of…</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">August 18, 2026 &middot; 5 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/what-is-josh-popkin-s-book-play-offense-about-1"><img src="/images/what-is-josh-popkin-s-book-play-offense-about-1/what-is-josh-popkin-s-book-play-offense-about-1-card.jpg" alt="Josh Popkin, with the title Play Offense, Explained" width="1280" height="1600" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Entrepreneurship</p>
+    <h3><a href="/post/what-is-josh-popkin-s-book-play-offense-about-1">What Is Josh Popkin's Book &quot;Play Offense&quot; About?</a></h3>
+    <p class="dek">Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">August 12, 2026 &middot; 4 min read</span></div>
+  </div>
+</article></section>
+</main>
+<footer class="foot">
+  <span class="mono">2026 &copy; Josh Paul Popkin</span>
+  <nav aria-label="Footer">
+    <a href="/blog">Perspectives</a>
+    <a href="/about/">About</a>
+    <a href="https://positionstrategygroup.com/" rel="me">Position Strategy Group</a>
+    <a href="https://joshpopkin.com/" rel="me">joshpopkin.com</a>
+    <a href="https://joshpopkincarteragency.com/" rel="me">Carter Agency</a>
+  </nav>
+</footer>
+<script>
+document.getElementById('today').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+(function(){var els=document.querySelectorAll('.rv');if(!('IntersectionObserver'in window)){els.forEach(function(e){e.classList.add('in')});return}
+var io=new IntersectionObserver(function(en){en.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{rootMargin:'0px 0px -8% 0px'});
+els.forEach(function(e){io.observe(e)})})();
+</script>
+</body>
+</html>

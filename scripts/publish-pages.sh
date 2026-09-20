@@ -12,4 +12,5 @@ git -c user.email=josh@positionstrategygroup.com -c user.name="Josh Popkin" comm
 git push -q -f https://github.com/positionstrategygroup/joshpaulpopkin-website.git gh-pages
 cd ..
 node scripts/indexnow.js || true
+python3 "$HOME/article-dashboard/scan.py" || true
 echo "published to gh-pages"

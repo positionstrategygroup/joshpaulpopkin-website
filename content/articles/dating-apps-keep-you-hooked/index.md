@@ -9,6 +9,7 @@ image_alt: "Josh Popkin, with the title Dating Apps"
 tags: ["Essay", "Josh Popkin"]
 description: "Josh Popkin on the period he went on a date every night, sometimes three, and what Pew, Forbes Health, a 2020 study and a lawsuit say about why dating apps keep people choosing."
 faq: true
+draft: true
 ---
 There was a period when Josh Popkin was going on a date every night.
 

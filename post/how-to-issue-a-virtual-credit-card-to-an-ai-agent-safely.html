@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How to Issue a Virtual Credit Card to an AI Agent Safely — Josh Paul Popkin</title>
+<meta name="description" content="If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:">
+<link rel="canonical" href="https://www.joshpaulpopkin.com/post/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="author" content="Josh Paul Popkin">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="alternate" type="application/rss+xml" title="Josh Paul Popkin" href="/rss.xml">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Josh Paul Popkin">
+<meta property="og:title" content="How to Issue a Virtual Credit Card to an AI Agent Safely">
+<meta property="og:description" content="If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:">
+<meta property="og:url" content="https://www.joshpaulpopkin.com/post/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely">
+<meta property="og:image" content="https://www.joshpaulpopkin.com/images/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.jpg">
+<meta property="og:image:width" content="1254">
+<meta property="og:image:height" content="1254">
+<meta property="article:published_time" content="2026-05-26">
+<meta property="article:modified_time" content="2026-05-26">
+<meta property="article:author" content="Josh Paul Popkin">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How to Issue a Virtual Credit Card to an AI Agent Safely">
+<meta name="twitter:description" content="If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:">
+<meta name="twitter:image" content="https://www.joshpaulpopkin.com/images/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css?v=633cbc4e">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.joshpaulpopkin.com/post/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely#article","headline":"How to Issue a Virtual Credit Card to an AI Agent Safely","alternativeHeadline":"If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:","description":"If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:","image":[{"@type":"ImageObject","url":"https://www.joshpaulpopkin.com/images/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.jpg","width":1254,"height":1254,"caption":"How to Issue a Virtual Credit Card to an AI Agent Safely"}],"datePublished":"2026-05-26","dateModified":"2026-05-26","inLanguage":"en-US","isAccessibleForFree":true,"wordCount":275,"articleSection":"AI","keywords":"AI, AI Agents, Payments","author":{"@id":"https://www.joshpaulpopkin.com/#josh"},"publisher":{"@id":"https://www.joshpaulpopkin.com/#josh"},"mainEntityOfPage":{"@id":"https://www.joshpaulpopkin.com/post/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely"},"isPartOf":{"@id":"https://www.joshpaulpopkin.com/#website"}},{"@type":"Person","@id":"https://www.joshpaulpopkin.com/#josh","name":"Josh Paul Popkin","alternateName":["Josh Popkin","Joshua Paul Popkin"],"givenName":"Josh","additionalName":"Paul","familyName":"Popkin","url":"https://www.joshpaulpopkin.com/about/","image":{"@type":"ImageObject","url":"https://www.joshpaulpopkin.com/josh-popkin-headshot-2026-square.jpg","width":1024,"height":1024},"jobTitle":"Founder, Marketing Engineer and Author","description":"Josh Popkin is an American entrepreneur, marketing engineer, and author. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. He is the author of the book Play Offense, published on Amazon. Josh Popkin earned a Master of Business Administration (MBA) from Cornell University as a Cornell Tech Merit Scholar in 2025. He earned a Bachelor of Science from Bucknell University in 2018.","worksFor":{"@id":"https://positionstrategygroup.com/#organization"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"Cornell University"},{"@type":"CollegeOrUniversity","name":"Bucknell University"}],"hasOccupation":{"@type":"Occupation","name":"Marketing engineer"},"homeLocation":{"@type":"Place","name":"New York, NY"},"birthPlace":{"@type":"Place","name":"Westport, Connecticut"},"sameAs":["https://joshpopkin.com/","https://positionstrategygroup.com/","https://www.amazon.com/Play-Offense-Customers-features-edge/dp/B0H6YDD539","https://www.linkedin.com/in/joshpaulpopkin/","https://www.instagram.com/joshpopkinct/","https://music.apple.com/us/artist/josh-popkin/1730161476","https://joshpopkincarteragency.com/"]},{"@type":"WebSite","@id":"https://www.joshpaulpopkin.com/#website","url":"https://www.joshpaulpopkin.com/","name":"Josh Paul Popkin","description":"Cornell MBA and Marketing Engineer focused on helping businesses leverage AI to become the recommended brand in ChatGPT, Google AI Overviews, and Gemini.","inLanguage":"en-US","publisher":{"@id":"https://www.joshpaulpopkin.com/#josh"},"about":{"@id":"https://www.joshpaulpopkin.com/#josh"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.joshpaulpopkin.com/"},{"@type":"ListItem","position":2,"name":"Perspectives","item":"https://www.joshpaulpopkin.com/blog"},{"@type":"ListItem","position":3,"name":"How to Issue a Virtual Credit Card to an AI Agent Safely","item":"https://www.joshpaulpopkin.com/post/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely"}]}]}</script>
+</head>
+<body>
+<header class="mast">
+  <div class="topline">
+    <span class="mono"><i class="dot"></i>New York, NY</span>
+    <span class="mono" id="today"></span>
+  </div>
+  <a class="name" href="/">Josh Paul Popkin</a>
+  <p class="tag">Entrepreneur, Marketing Engineer &amp; Author</p>
+  <nav class="menu" aria-label="Site">
+    <a href="/">Home</a>
+    <a href="/blog" aria-current="page">Perspectives</a>
+    <a href="/about/">About</a>
+  </nav>
+</header>
+<main>
+<article class="art">
+  <header class="art-head">
+    <p class="kicker mono"><i class="dot"></i>AI</p>
+    <h1>How to Issue a Virtual Credit Card to an AI Agent Safely</h1>
+    <p class="dek">If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">May 26, 2026 &middot; 1 min read</span></div>
+  </header>
+  <figure class="hero"><img src="/images/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely/how-to-issue-a-virtual-credit-card-to-an-ai-agent-safely-1.jpg" alt="How to Issue a Virtual Credit Card to an AI Agent Safely" width="1254" height="1254" decoding="async" fetchpriority="high"></figure>
+  <div class="body">
+<p><em>Limit Spend. Lock to Merchants. Retain Full Control.</em></p>
+<p>If you have an AI agent (Claude/OpenAI workflow, browser agent, automation, shopping agent, etc.) and want it to buy things/pay for APIs without risking your real card, the answer is:</p>
+<blockquote>
+<p><strong>Use a programmable virtual card with hard limits and policy controls.</strong></p>
+</blockquote>
+<p>The safest setup is:</p>
+<h3 id="option-1-merchant-locked-virtual-cards-best-for-most-people">Option 1: Merchant-locked virtual cards (best for most people)</h3>
+<p>Use a provider that lets you create <strong>single-purpose virtual cards</strong> with:</p>
+<ul>
+<li><p>spend limits</p>
+</li>
+<li><p>merchant/category controls</p>
+</li>
+<li><p>pause/revoke instantly</p>
+</li>
+<li><p>separate balances</p>
+</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li><p><a href="http://Privacy.com">Privacy.com</a> — easiest consumer setup for merchant-locked cards</p>
+</li>
+<li><p><a href="https://ramp.com?utm_source=chatgpt.com">Ramp</a> — stronger business controls</p>
+</li>
+<li><p><a href="https://www.brex.com?utm_source=chatgpt.com">Brex</a> — startup spend management</p>
+</li>
+<li><p><a href="https://stripe.com/issuing?utm_source=chatgpt.com">Stripe Issuing</a> — if you want to build this into a product</p>
+</li>
+</ul>
+<p>Example policy:</p>
+<blockquote>
+<p>Agent card → max $50/day → only usable at OpenAI, AWS, Google Cloud</p>
+</blockquote>
+<p>If compromised:</p>
+<blockquote>
+<p>blast radius = tiny</p>
+</blockquote>
+<h3 id="option-2-prepaid-wallet-model-very-safe">Option 2: Prepaid / wallet model (very safe)</h3>
+<p>Fund a card with a fixed amount.</p>
+<p>Example:</p>
+<blockquote>
+<p>AI shopping agent gets $100</p>
+</blockquote>
+<p>Not:</p>
+<blockquote>
+<p>access to checking account</p>
+</blockquote>
+<p>Think:</p>
+<blockquote>
+<p>sandboxed allowance</p>
+</blockquote>
+<h3 id="option-3-approval-gated-purchases-my-favorite-for-agents">Option 3: Approval-gated purchases (my favorite for agents)</h3>
+<p>Don’t let the agent autonomously spend.</p>
+<p>Flow:</p>
+<ol>
+<li>Agent decides</li>
+</ol>
+<blockquote>
+<p>“Need to buy dataset/API/software”</p>
+</blockquote>
+<ol start="2">
+<li>Sends request:</li>
+</ol>
+<blockquote>
+<p>Vendor: XCost: $23/moReason: Y</p>
+</blockquote>
+<ol start="3">
+<li><p>Human approves</p>
+</li>
+<li><p>Purchase executes</p>
+</li>
+</ol>
+<p>This is what many companies are converging toward for AI procurement.</p>
+<p><em>Written by Josh Popkin. Published May 26, 2026.</em></p>
+<p><em>Disclaimer: This content is intended for informational purposes only and is not financial advice. Nothing in this article should be interpreted as an investment recommendation or a substitute for professional financial, legal, or tax guidance. Always do your own research.</em></p>
+
+  </div>
+  <footer class="art-end"><i class="dot"></i></footer>
+</article>
+<section class="about rv" id="about">
+  <a class="portrait" href="/about/"><img src="/josh-popkin-headshot-2026.jpg" alt="Josh Popkin" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>About the author</p>
+    <h2>Josh Paul Popkin</h2>
+    <p class="bio">Josh Popkin is an American entrepreneur, marketing engineer, and author. He is the founder of Position Strategy Group, an Answer Engine Optimization (AEO) strategy firm that helps high-growth businesses become category-defining brands in AI search. He is the author of the book <em>Play Offense</em>, published on Amazon. Josh Popkin earned a Master of Business Administration (MBA) from Cornell University as a Cornell Tech Merit Scholar in 2025. He earned a Bachelor of Science from Bucknell University in 2018.</p>
+    <ul class="links"><li><a href="https://joshpopkin.com/" rel="me">joshpopkin.com</a></li><li><a href="https://positionstrategygroup.com/" rel="me">Position Strategy Group</a></li><li><a href="https://www.amazon.com/Play-Offense-Customers-features-edge/dp/B0H6YDD539" rel="me">Play Offense on Amazon</a></li><li><a href="https://www.linkedin.com/in/joshpaulpopkin/" rel="me">LinkedIn</a></li><li><a href="https://www.instagram.com/joshpopkinct/" rel="me">Instagram</a></li><li><a href="https://music.apple.com/us/artist/josh-popkin/1730161476" rel="me">Apple Music</a></li><li><a href="https://joshpopkincarteragency.com/" rel="me">Carter Agency</a></li></ul>
+  </div>
+</section>
+<section class="more"><h2 class="sect">More articles</h2><article class="card rv">
+  <a class="pic" href="/post/josh-popkin-press-update-september-19-2026"><img src="/images/josh-popkin-press-update-september-19-2026/josh-popkin-press-update-september-19-2026-card.jpg" alt="Josh Popkin in sunglasses holding a dog at the Greenwich Polo Club, with the title Press Update, September 19, 2026" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Press Update</p>
+    <h3><a href="/post/josh-popkin-press-update-september-19-2026">Josh Popkin Press Update, September 19, 2026: Building a Public Record</a></h3>
+    <p class="dek">In a week of launches, rebuilds and new writing, Popkin put much of his past work into a public record while continuing to build tools around AI search.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">September 19, 2026 &middot; 4 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/google-s-page-one-for-drake-shows-what-search-rewards"><img src="/images/google-s-page-one-for-drake-shows-what-search-rewards/google-s-page-one-for-drake-shows-what-search-rewards-card.jpg" alt="Josh Popkin, with the title Google's Page One" width="1600" height="2000" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Search</p>
+    <h3><a href="/post/google-s-page-one-for-drake-shows-what-search-rewards">Google's Page One for 'Drake' on September 19, 2026 Shows What Search Rewards</a></h3>
+    <p class="dek">A search for one of the world's most-followed artists shows that Google often gives the week's activity, other people's posts and platform-specific signals more space than an official website or a settled biography.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">September 19, 2026 &middot; 7 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search"><img src="/images/how-did-westport-family-homes-improve-its-visibility-in-ai-search/how-did-westport-family-homes-improve-its-visibility-in-ai-s-card.jpg" alt="Josh Popkin, with the title Westport Family Homes" width="1280" height="1600" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>AI Search</p>
+    <h3><a href="/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search">How Did Westport Family Homes Improve Its Visibility in AI Search?</a></h3>
+    <p class="dek">In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear example of the kind of…</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">August 18, 2026 &middot; 5 min read</span></div>
+  </div>
+</article>
+<article class="card rv">
+  <a class="pic" href="/post/what-is-josh-popkin-s-book-play-offense-about-1"><img src="/images/what-is-josh-popkin-s-book-play-offense-about-1/what-is-josh-popkin-s-book-play-offense-about-1-card.jpg" alt="Josh Popkin, with the title Play Offense, Explained" width="1280" height="1600" loading="lazy" decoding="async"></a>
+  <div class="txt">
+    <p class="kicker mono"><i class="dot"></i>Entrepreneurship</p>
+    <h3><a href="/post/what-is-josh-popkin-s-book-play-offense-about-1">What Is Josh Popkin's Book &quot;Play Offense&quot; About?</a></h3>
+    <p class="dek">Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable.</p>
+    <div class="byline"><span class="by">By <a href="/about/">Josh Paul Popkin</a></span><span class="mono">August 12, 2026 &middot; 4 min read</span></div>
+  </div>
+</article></section>
+</main>
+<footer class="foot">
+  <span class="mono">2026 &copy; Josh Paul Popkin</span>
+  <nav aria-label="Footer">
+    <a href="/blog">Perspectives</a>
+    <a href="/about/">About</a>
+    <a href="https://positionstrategygroup.com/" rel="me">Position Strategy Group</a>
+    <a href="https://joshpopkin.com/" rel="me">joshpopkin.com</a>
+    <a href="https://joshpopkincarteragency.com/" rel="me">Carter Agency</a>
+  </nav>
+</footer>
+<script>
+document.getElementById('today').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+(function(){var els=document.querySelectorAll('.rv');if(!('IntersectionObserver'in window)){els.forEach(function(e){e.classList.add('in')});return}
+var io=new IntersectionObserver(function(en){en.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{rootMargin:'0px 0px -8% 0px'});
+els.forEach(function(e){io.observe(e)})})();
+</script>
+</body>
+</html>

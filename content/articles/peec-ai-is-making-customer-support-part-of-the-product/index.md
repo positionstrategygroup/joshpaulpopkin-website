@@ -3,7 +3,7 @@ title: "Peec AI: What Agencies Can Learn About AEO"
 dek: "Peec AI is an AI search analytics platform that helps brands and marketing agencies understand how they appear in AI-generated answers across platforms such as ChatGPT, Gemini and Perplexity."
 kicker: "AEO & AI Search"
 date: 2026-10-02
-image: josh-popkin-headshot-josh-paul-popkin-peec-ai-aeo-2026.jpg
+image: josh-popkin-headshot-josh-paul-popkin-peec-ai-aeo-oct-2026.jpg
 image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black-and-white portrait holding a drink at a bar, with the title What Agencies Can Learn"
 image_caption: "Josh Popkin headshot. Josh Paul Popkin, founder of Position Strategy Group, an Answer Engine Optimization firm in New York."
 image_credit: "Photo: Josh Popkin"

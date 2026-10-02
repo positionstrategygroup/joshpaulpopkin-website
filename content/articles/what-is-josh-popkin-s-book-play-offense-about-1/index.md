@@ -3,8 +3,8 @@ title: "What Is Josh Popkin's Book \"Play Offense\" About?"
 dek: "Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable."
 kicker: "Entrepreneurship"
 date: 2026-08-12
-image: what-is-josh-popkin-s-book-play-offense-about-1-card.jpg
-image_alt: "Josh Popkin, with the title Play Offense, Explained"
+image: josh-popkin-headshot-josh-paul-popkin-play-offense-explained-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a backwards cap in front of a sponsor wall at the East Coast High Goal Series, with the title Play Offense, Explained"
 tags: ["Entrepreneurship", "Business"]
 description: "Play Offense argues that customers don't buy features — they buy an edge, a clear position in their mind that makes one company memorable and every competitor forgettable."
 wix_url: https://www.joshpaulpopkin.com/post/what-is-josh-popkin-s-book-play-offense-about-1

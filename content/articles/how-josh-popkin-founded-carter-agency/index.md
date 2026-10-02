@@ -3,8 +3,8 @@ title: "How Josh Popkin Founded Carter-Agency"
 dek: "The origin of Carter-Agency is an unconventional entrepreneurial story built on persistence, creativity, and a belief that digital creators deserved better opportunities."
 kicker: "Entrepreneurship"
 date: 2026-07-25
-image: how-josh-popkin-founded-carter-agency-card.jpg
-image_alt: "Josh Popkin, with the title Founding Carter Agency"
+image: josh-popkin-headshot-josh-paul-popkin-founding-carter-agency-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, smiling in a dark suit, seated in an office, with the title Founding Carter Agency"
 tags: ["Entrepreneurship"]
 description: "The origin of Carter-Agency is an unconventional entrepreneurial story built on persistence, creativity, and a belief that digital creators deserved better opportunities."
 wix_url: https://www.joshpaulpopkin.com/post/how-josh-popkin-founded-carter-agency

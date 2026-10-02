@@ -3,8 +3,8 @@ title: "Google's Page One for 'Drake' on September 19, 2026 Shows What Search Re
 dek: "A search for one of the world's most-followed artists shows that Google often gives the week's activity, other people's posts and platform-specific signals more space than an official website or a settled biography."
 kicker: "Search"
 date: 2026-09-19
-image: google-s-page-one-for-drake-shows-what-search-rewards-card.jpg
-image_alt: "Josh Popkin, with the title Google's Page One"
+image: josh-popkin-headshot-josh-paul-popkin-google-page-one-drake-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black quarter-zip in front of Manhattan office towers at night, with the title Google's Page One"
 tags: ["Search", "AEO"]
 description: "One real Google results page for Drake, read block by block: what Google put first, whose content filled each block, and what to check on your own name."
 faq: true

@@ -3,8 +3,8 @@ title: "Josh Popkin: Play Offense"
 dek: "Josh Paul Popkin self-published his first book: Play Offense: Customers don't buy features. They buy an edge."
 kicker: "Entrepreneurship"
 date: 2026-07-02
-image: josh-popkin-play-offense-card.jpg
-image_alt: "Josh Popkin, with the title Play Offense"
+image: josh-popkin-headshot-josh-paul-popkin-play-offense-book-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black shirt in front of a bookshop wall, with the title Play Offense"
 tags: ["Entrepreneurship", "Business"]
 description: "Josh Paul Popkin self-published his first book: Play Offense: Customers don't buy features. They buy an edge."
 wix_url: https://www.joshpaulpopkin.com/post/josh-popkin-play-offense

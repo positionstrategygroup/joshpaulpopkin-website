@@ -5,8 +5,6 @@ kicker: "AEO & AI Search"
 date: 2026-10-02
 image: josh-popkin-headshot-josh-paul-popkin-peec-ai-aeo-oct-2026.jpg
 image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black-and-white portrait holding a drink at a bar, with the title What Agencies Can Learn"
-image_caption: "Josh Popkin headshot. Josh Paul Popkin, founder of Position Strategy Group, an Answer Engine Optimization firm in New York."
-image_credit: "Photo: Josh Popkin"
 tags: ["AEO", "AI Search", "Peec AI", "Position Strategy Group"]
 description: "A Peec AI customer on how the AEO analytics company's agency GTM team helped Position Strategy Group think through packaging Answer Engine Optimization services."
 faq: true

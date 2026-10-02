@@ -4,8 +4,8 @@ dek: "Dating apps can make meeting people easier, but Josh Popkin says endless c
 kicker: "Essay"
 date: 2026-09-20
 publish: 2026-09-20T07:30:00-04:00
-image: dating-apps-keep-you-hooked-card.jpg
-image_alt: "Josh Popkin, with the title Dating Apps"
+image: josh-popkin-headshot-josh-paul-popkin-dating-apps-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a tuxedo at a formal reception, with the title Dating Apps"
 tags: ["Essay", "Josh Popkin"]
 description: "Josh Popkin on the period he went on a date every night, sometimes three, and what Pew, Forbes Health, a 2020 study and a lawsuit say about why dating apps keep people choosing."
 faq: true

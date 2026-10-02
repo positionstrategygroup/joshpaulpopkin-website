@@ -3,8 +3,8 @@ title: "Josh Popkin Press Update, September 19, 2026: Building a Public Record"
 dek: "In a week of launches, rebuilds and new writing, Popkin put much of his past work into a public record while continuing to build tools around AI search."
 kicker: "Press Update"
 date: 2026-09-19
-image: josh-popkin-press-update-september-19-2026-card.jpg
-image_alt: "Josh Popkin in sunglasses holding a dog at the Greenwich Polo Club, with the title Press Update, September 19, 2026"
+image: josh-popkin-headshot-josh-paul-popkin-press-update-september-19-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in sunglasses holding a schnauzer at the Greenwich Polo Club, with the title September 19, 2026"
 image_caption: "Josh Popkin at the Greenwich Polo Club."
 tags: ["Press Update", "Josh Popkin"]
 description: "Josh Popkin press update for September 19, 2026: the Carter Agency article site publishing daily through October 24, both personal sites rebuilt, the public-shaming essay, Check The Scoreboard and Position Strategy Group."

@@ -3,8 +3,8 @@ title: "What Is Josh Popkin's Book \"Play Offense\" About?"
 dek: "Play Offense is Josh Paul Popkin's book on positioning — how a business or individual gets customers to see their specific features and advantages clearly enough to actually choose them over a competitor."
 kicker: "Entrepreneurship"
 date: 2026-08-09
-image: what-is-josh-popkin-s-book-play-offense-about-card.jpg
-image_alt: "Josh Popkin, with the title Play Offense"
+image: josh-popkin-headshot-josh-paul-popkin-play-offense-author-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, close portrait in a grey shirt against a brick wall, with the title Play Offense"
 tags: ["Entrepreneurship", "Business"]
 description: "Play Offense is Josh Paul Popkin's book on positioning — how a business or individual gets customers to see their specific features and advantages clearly…"
 wix_url: https://www.joshpaulpopkin.com/post/what-is-josh-popkin-s-book-play-offense-about

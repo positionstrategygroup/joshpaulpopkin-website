@@ -3,8 +3,8 @@ title: "Who Is Josh Popkin?"
 dek: "Josh Popkin builds at the intersection of attention, psychology, and scale. His journey started in the trenches of the creator economy."
 kicker: "Entrepreneurship"
 date: 2026-07-02
-image: who-is-josh-popkin-card.jpg
-image_alt: "Josh Popkin in New York, with the title Who Is Josh Popkin?"
+image: josh-popkin-headshot-josh-paul-popkin-who-is-josh-popkin-profile-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black quarter-zip among Manhattan office towers at night, with the title Who Is Josh Popkin?"
 tags: ["Entrepreneurship"]
 description: "Josh Popkin builds at the intersection of attention, psychology, and scale. His journey started in the trenches of the creator economy."
 wix_url: https://www.joshpaulpopkin.com/post/who-is-josh-popkin

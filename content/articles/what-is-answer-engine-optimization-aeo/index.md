@@ -3,8 +3,8 @@ title: "What Is Answer Engine Optimization (AEO)?"
 dek: "Answer Engine Optimization (AEO) is the practice of increasing the likelihood that AI platforms such as ChatGPT, Claude, Gemini, Microsoft Copilot, and Perplexity reference your…"
 kicker: "AEO"
 date: 2026-07-30
-image: what-is-answer-engine-optimization-aeo-card.jpg
-image_alt: "Josh Popkin, with the title Answer Engines"
+image: josh-popkin-headshot-josh-paul-popkin-answer-engines-aeo-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a tuxedo outdoors, with the title Answer Engines"
 tags: ["AEO"]
 description: "Answer Engine Optimization (AEO) is the practice of increasing the likelihood that AI platforms such as ChatGPT, Claude, Gemini, Microsoft Copilot, and…"
 wix_url: https://www.joshpaulpopkin.com/post/what-is-answer-engine-optimization-aeo

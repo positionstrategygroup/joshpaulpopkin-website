@@ -8,13 +8,15 @@ from PIL import Image, ImageOps
 from rembg import remove
 
 args = sys.argv[1:]; src, out = args[0], args[1]
-opt = {'inpaint': None, 'bg_blur': 0.0, 'bg': True, 'face': None}   # 2026-09-18: no background blur by default; it read as a composite
+opt = {'inpaint': None, 'bg_blur': 0.0, 'bg': True, 'face': None, 'face_h': 0.13, 'max_up': 99.0}   # 2026-09-18: no background blur by default; it read as a composite
 i = 2
 while i < len(args):
     if args[i] == '--inpaint': opt['inpaint'] = [int(v) for v in args[i+1].split(',')]; i += 2
     elif args[i] == '--bg-blur': opt['bg_blur'] = float(args[i+1]); i += 2
     elif args[i] == '--no-bg': opt['bg'] = False; i += 1
     elif args[i] == '--face': opt['face'] = [float(v) for v in args[i+1].split(',')]; i += 2   # cx,cy,h in source px: manual override when the matte misreads a busy frame
+    elif args[i] == '--face-h': opt['face_h'] = float(args[i+1]); i += 2   # face height as a share of the frame (2026-10-02: Josh wants ~0.22, 'fill the frame')
+    elif args[i] == '--max-up': opt['max_up'] = float(args[i+1]); i += 2   # cap the upscale factor so small sources are not zoomed to mush
     else: i += 1
 
 pil = ImageOps.exif_transpose(Image.open(src)).convert('RGB')
@@ -22,7 +24,8 @@ pil = ImageOps.exif_transpose(Image.open(src)).convert('RGB')
 # 0. subject-aware 4:5 crop (added 2026-09-18). Finds the person with rembg + a face detector and frames
 #    them the same way every time: face centred horizontally, face centre at 36% of the height, face about
 #    13% of the height. That leaves the bottom third clear for the campaign-card type. --no-crop skips it.
-def subject_crop(pil, face_y=0.36, face_h=0.13, ratio=0.8):
+def subject_crop(pil, face_y=0.36, face_h=None, ratio=0.8):
+    face_h = face_h or opt['face_h']
     W, H = pil.size; sc = 900 / max(W, H); sm = pil.resize((max(1, int(W * sc)), max(1, int(H * sc))))
     if opt['face']:
         fx, fy, fh = [v * sc for v in opt['face']]; sx0, sx1 = fx - fh, fx + fh; faces = ['manual']
@@ -52,6 +55,7 @@ def subject_crop(pil, face_y=0.36, face_h=0.13, ratio=0.8):
 def _frame(pil, sm, sc, fx, fy, fh, sx0, sx1, face_y, face_h, ratio, how):
     ch = fh / face_h; cw = ch * ratio
     cw = max(cw, (sx1 - sx0) * 1.12)                      # shoulders stay in frame
+    cw = max(cw, 1600 / opt['max_up'] * sc)               # --max-up: never zoom past this upscale factor
     cw = min(cw, sm.width); ch = min(cw / ratio, sm.height); cw = ch * ratio
     x0 = min(max(fx - cw / 2, 0), sm.width - cw); y0 = min(max(fy - ch * face_y, 0), sm.height - ch)
     box = tuple(int(v / sc) for v in (x0, y0, x0 + cw, y0 + ch))

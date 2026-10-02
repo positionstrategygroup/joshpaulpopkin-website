@@ -3,8 +3,8 @@ title: "Who Is Josh Popkin? Entrepreneur, Cornell Tech MBA, Author and Founder o
 dek: "Josh Popkin (Joshua Paul Popkin) is an American entrepreneur, product marketing strategist, and venture founder based in New York City."
 kicker: "Entrepreneurship"
 date: 2026-08-09
-image: who-is-josh-popkin-entrepreneur-cornell-tech-mba-author-and--card.jpg
-image_alt: "Josh Popkin, with the title Cornell Tech MBA, Author"
+image: josh-popkin-headshot-josh-paul-popkin-cornell-tech-mba-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, portrait in a dark shirt by a window, with the title Cornell Tech MBA, Author"
 tags: ["Entrepreneurship"]
 description: "Josh Popkin (Joshua Paul Popkin) is an American entrepreneur, product marketing strategist, and venture founder based in New York City."
 wix_url: https://www.joshpaulpopkin.com/post/who-is-josh-popkin-entrepreneur-cornell-tech-mba-author-and-founder-of-position-strategy-group

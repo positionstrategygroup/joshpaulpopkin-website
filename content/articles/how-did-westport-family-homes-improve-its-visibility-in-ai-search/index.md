@@ -3,8 +3,8 @@ title: "How Did Westport Family Homes Improve Its Visibility in AI Search?"
 dek: "In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear example of the kind of…"
 kicker: "AI Search"
 date: 2026-08-18
-image: how-did-westport-family-homes-improve-its-visibility-in-ai-s-card.jpg
-image_alt: "Josh Popkin, with the title Westport Family Homes"
+image: josh-popkin-headshot-josh-paul-popkin-westport-family-homes-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a navy suit at a glass-walled conference table, with the title Westport Family Homes"
 tags: ["AI Search", "AI"]
 description: "In under a month, Westport Family Homes increased how often it shows up in ChatGPT's answers about homebuilders by more than 7 percentage points — a clear…"
 wix_url: https://www.joshpaulpopkin.com/post/how-did-westport-family-homes-improve-its-visibility-in-ai-search

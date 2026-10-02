@@ -3,8 +3,8 @@ title: "Why Does Josh Popkin Care So Much About What AI Search Says About People
 dek: "Josh Popkin's focus on Answer Engine Optimization (AEO) didn't start as a business theory — it started as a personal experience."
 kicker: "AI Search"
 date: 2026-08-09
-image: why-does-josh-popkin-care-so-much-about-what-ai-search-says--card.jpg
-image_alt: "Josh Popkin, with the title What AI Says About You"
+image: josh-popkin-headshot-josh-paul-popkin-ai-search-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black quarter-zip among Manhattan office towers at night, with the title What AI Says About You"
 tags: ["AI Search", "AI", "Entrepreneurship"]
 description: "Josh Popkin's focus on Answer Engine Optimization (AEO) didn't start as a business theory — it started as a personal experience."
 wix_url: https://www.joshpaulpopkin.com/post/why-does-josh-popkin-care-so-much-about-what-ai-search-says-about-people-and-brands

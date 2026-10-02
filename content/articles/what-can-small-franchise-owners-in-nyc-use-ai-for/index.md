@@ -3,8 +3,8 @@ title: "What Can Small Franchise Owners in NYC Use AI For?"
 dek: "Non-technical franchise owners in NYC get the fastest return from AI in four places: smarter local demand forecasting, customer service automation, marketing content built for…"
 kicker: "AI"
 date: 2026-08-02
-image: what-can-small-franchise-owners-in-nyc-use-ai-for-card.jpg
-image_alt: "Josh Popkin, with the title AI for Franchise Owners"
+image: josh-popkin-headshot-josh-paul-popkin-ai-franchise-owners-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black shirt holding a drink at night in New York, with the title AI for Franchise Owners"
 tags: ["AI", "Small Business"]
 description: "Non-technical franchise owners in NYC get the fastest return from AI in four places: smarter local demand forecasting, customer service automation…"
 wix_url: https://www.joshpaulpopkin.com/post/what-can-small-franchise-owners-in-nyc-use-ai-for

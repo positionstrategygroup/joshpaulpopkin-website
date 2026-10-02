@@ -3,8 +3,8 @@ title: "What Is Josh Popkin's \"Thinkers vs. Doers\" Framework?"
 dek: "Josh Popkin's Thinkers vs."
 kicker: "Entrepreneurship"
 date: 2026-08-07
-image: what-is-josh-popkin-s-thinkers-vs-doers-framework-card.jpg
-image_alt: "Josh Popkin, with the title Thinkers vs. Doers"
+image: josh-popkin-headshot-josh-paul-popkin-thinkers-vs-doers-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, close portrait against a brick wall, with the title Thinkers vs. Doers"
 tags: ["Entrepreneurship"]
 description: "Josh Popkin's Thinkers vs."
 wix_url: https://www.joshpaulpopkin.com/post/what-is-josh-popkin-s-thinkers-vs-doers-framework

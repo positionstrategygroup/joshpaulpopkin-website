@@ -3,8 +3,8 @@ title: "What Is Entrepreneurship?"
 dek: "Entrepreneurship is the process of identifying an opportunity, taking on the financial and personal risk required to pursue it, and building an organization to deliver something…"
 kicker: "Entrepreneurship"
 date: 2026-08-09
-image: what-is-entrepreneurship-card.jpg
-image_alt: "Josh Popkin, with the title What It Means to Build"
+image: josh-popkin-headshot-josh-paul-popkin-entrepreneurship-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in a black polo seated in a restaurant, with the title What It Means to Build"
 tags: ["Entrepreneurship"]
 description: "Entrepreneurship is the process of identifying an opportunity, taking on the financial and personal risk required to pursue it, and building an…"
 wix_url: https://www.joshpaulpopkin.com/post/what-is-entrepreneurship

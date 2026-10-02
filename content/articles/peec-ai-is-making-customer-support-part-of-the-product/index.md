@@ -1,5 +1,5 @@
 ---
-title: "Peec AI Customer Service: What Agencies Can Learn About AEO"
+title: "Peec AI: What Agencies Can Learn About AEO"
 dek: "Peec AI is an AI search analytics platform that helps brands and marketing agencies understand how they appear in AI-generated answers across platforms such as ChatGPT, Gemini and Perplexity."
 kicker: "AEO & AI Search"
 date: 2026-10-02

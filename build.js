@@ -80,7 +80,7 @@ if (fs.existsSync(artDir)) {
 
     const hero = data.image ? resolve(data.image) : null;
     const heroDims = hero && localFile(hero) ? dims(localFile(hero)) : {};
-    if (hero) images.unshift({ url: abs(hero), caption: data.image_caption || data.image_alt || data.title, ...heroDims });
+    if (hero) images.unshift({ url: abs(hero), caption: data.image_caption || data.image_alt || data.title, name: data.image_alt || data.title, ...heroDims });
 
     const publishAt = data.publish ? Date.parse(data.publish) : NaN;
     articles.push({
@@ -281,7 +281,7 @@ ${others.length ? `<section class="more"><h2 class="sect">More articles</h2>${ot
     body,
     graph: [{
       '@type': 'Article', '@id': `${url}#article`, headline: a.title, alternativeHeadline: a.dek || undefined, description: a.description,
-      image: a.images.map(i => ({ '@type': 'ImageObject', url: i.url, width: i.width, height: i.height, caption: i.caption })),
+      image: a.images.map(i => ({ '@type': 'ImageObject', url: i.url, width: i.width, height: i.height, caption: i.caption, name: i.name || i.caption, creator: { '@type': 'Person', name: 'Josh Popkin', alternateName: 'Josh Paul Popkin' }, creditText: 'Josh Popkin', copyrightNotice: '© Josh Paul Popkin' })),
       datePublished: a.date, dateModified: a.updated, inLanguage: 'en-US', isAccessibleForFree: true, wordCount: a.words,
       articleSection: a.kicker, keywords: a.tags.length ? a.tags.join(', ') : undefined,
       author: { '@id': personId }, publisher: { '@id': personId }, mainEntityOfPage: { '@id': url }, isPartOf: { '@id': siteId }

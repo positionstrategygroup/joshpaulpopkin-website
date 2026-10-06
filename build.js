@@ -158,7 +158,7 @@ ${ld(graph)}
     <span class="mono"><i class="dot"></i>${esc(site.city)}</span>
     <span class="mono" id="today"></span>
   </div>
-  <a class="name" href="/">${esc(site.name)}</a>
+  ${current === 'home' ? `<h1 class="name"><a href="/">${esc(site.name)}</a></h1>` : `<a class="name" href="/">${esc(site.name)}</a>`}
   ${site.tagline ? `<p class="tag">${esc(site.tagline)}</p>` : ''}
   <nav class="menu" aria-label="Site">
     <a href="/"${current === 'home' ? ' aria-current="page"' : ''}>Home</a>

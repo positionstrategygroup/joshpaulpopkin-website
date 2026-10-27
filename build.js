@@ -140,12 +140,15 @@ function page({ title, description, canonical, body, graph = [], og = {}, curren
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${canonical}">
 <meta property="og:image" content="${ogImage}">
+<meta property="og:image:type" content="${/\.png$/i.test(ogImage) ? 'image/png' : 'image/jpeg'}">
+<meta property="og:image:alt" content="${esc(og.alt || A.name)}">
 ${og.width ? `<meta property="og:image:width" content="${og.width}">\n<meta property="og:image:height" content="${og.height}">` : '<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="628">'}
 ${og.published ? `<meta property="article:published_time" content="${og.published}">\n<meta property="article:modified_time" content="${og.modified}">\n<meta property="article:author" content="${esc(A.bylineName)}">` : ''}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${esc(og.title || title)}">
 <meta name="twitter:description" content="${esc(description)}">
 <meta name="twitter:image" content="${ogImage}">
+<meta name="twitter:image:alt" content="${esc(og.alt || A.name)}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="${FONTS}" rel="stylesheet">
@@ -277,7 +280,7 @@ ${aboutStrip()}
 ${others.length ? `<section class="more"><h2 class="sect">More articles</h2>${others.map(o => card(o)).join('\n')}</section>` : ''}`;
   write(`post/${a.slug}.html`, page({
     title: `${a.title} — ${site.name}`, description: a.description, canonical: url, current: 'articles',
-    og: { type: 'article', title: a.title, image: a.hero ? abs(a.hero) : undefined, width: a.heroDims.width, height: a.heroDims.height, published: a.date, modified: a.updated },
+    og: { type: 'article', title: a.title, image: a.hero ? abs(a.hero) : undefined, alt: a.hero ? a.heroAlt : undefined, width: a.heroDims.width, height: a.heroDims.height, published: a.date, modified: a.updated },
     body,
     graph: [{
       '@type': 'Article', '@id': `${url}#article`, headline: a.title, alternativeHeadline: a.dek || undefined, description: a.description,

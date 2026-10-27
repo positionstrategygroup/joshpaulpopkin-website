@@ -3,7 +3,7 @@ title: "Fast Company Published Serious Claims. Then Failed to Provide the Eviden
 dek: "Josh Popkin is taking on Fast Company after the publication published false and defamatory statements about him and his former company. After repeatedly asking the media giant to provide evidence supporting its claims, Popkin says none was produced."
 kicker: "Press Update"
 date: 2026-10-27
-image: josh-popkin-headshot-josh-paul-popkin-fast-company-2026.jpg
+image: josh-popkin-headshot-josh-paul-popkin-fast-company-oct-2026.jpg
 image_alt: "Josh Popkin headshot: Josh Paul Popkin in a black tuxedo and bow tie, holding a glass on a pier at night with the New York City skyline behind him, with the title Where's the Evidence?"
 tags: ["Press Update", "Fast Company", "Mansueto Ventures", "Carter Agency", "Online Reputation", "Position Strategy Group"]
 description: "Josh Popkin asked Fast Company and Mansueto Ventures on October 8, 2026, to retract its December 2022 article about him or show the evidence behind it. He says none was produced."

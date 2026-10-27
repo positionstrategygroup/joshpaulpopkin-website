@@ -3,8 +3,8 @@ title: "After Fighting for His Own Reputation, Josh Popkin Helps Annie Seifullah
 dek: "After fighting for his own reputation, Josh Popkin is now using what he learned to help others. His pro bono work for Annie Schmutz Seifullah helped lead to the removal of two decade-old Gothamist articles."
 kicker: "Press Update"
 date: 2026-10-27
-image: josh-popkin-headshot-josh-paul-popkin-pro-bono-oct-2026.jpg
-image_alt: "Josh Popkin headshot: Josh Paul Popkin in a black knit polo, chin resting on his hand, in a Manhattan office, black and white, with the title Paying It Forward"
+image: josh-popkin-headshot-josh-paul-popkin-tuxedo-pro-bono-oct-2026.jpg
+image_alt: "Josh Popkin headshot: Josh Paul Popkin in a black tuxedo and bow tie, holding a glass on a pier at night with the New York City skyline behind him, with the title Paying It Forward"
 tags: ["Press Update", "Annie Seifullah", "Gothamist", "New York Public Radio", "Online Reputation", "Position Strategy Group"]
 description: "Josh Popkin, founder of Position Strategy Group, represented attorney Annie Schmutz Seifullah pro bono. On October 9, 2026, New York Public Radio removed two 2014 Gothamist articles about her."
 faq: true

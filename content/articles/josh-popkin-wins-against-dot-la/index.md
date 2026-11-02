@@ -96,4 +96,4 @@ That can include publisher outreach, copyright-related issues, factual correctio
 
 “If a large publication is publishing false or misleading information about you, you may have more options than you think.” That is the message Josh wants those being bullied to know.
 
-**[Contact Josh Popkin](mailto:josh@positionstrategygroup.com) and [Position Strategy Group](https://positionstrategygroup.com/) to discuss online reputation, content removal strategy, and AI search visibility.**
+**[Contact Victoria](mailto:victoria@positionstrategygroup.com) at [Position Strategy Group](https://positionstrategygroup.com/) to discuss online reputation, content removal strategy, and AI search visibility.**

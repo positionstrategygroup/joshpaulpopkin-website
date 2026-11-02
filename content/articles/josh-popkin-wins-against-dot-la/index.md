@@ -68,7 +68,7 @@ Josh’s position is:
 
 ## Why Does the Removal of the dot.LA Article Matter?
 
-For me, it is about correcting the searchable record.
+For Josh, it is about correcting the searchable record.
 
 An article can continue appearing in Google, AI-generated answers, social media, and other online references long after the original controversy has passed. That means misleading or inaccurate reporting can affect someone far beyond the date an article was first published.
 

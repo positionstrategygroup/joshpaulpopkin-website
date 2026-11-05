@@ -60,7 +60,7 @@ The biggest lesson he took from this experience is simple:
 
 News stories can contain unproven claims. Sources can be wrong. Headlines can overstate what the underlying reporting actually establishes. And a claim repeated across multiple websites does not become true simply because it has been repeated.
 
-Having experienced this [personally](https://joshpopkin.com/insights/what-its-like-to-be-publicly-shamed-on-the-internet/), Josh has become much more skeptical of the idea that a search result should be treated as a permanent verdict on a person.
+Having experienced this personally, Josh has become much more skeptical of the idea that a search result should be treated as a permanent verdict on a person.
 
 Josh’s position is:
 

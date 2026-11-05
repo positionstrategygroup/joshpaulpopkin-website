@@ -7,14 +7,14 @@ image: josh-popkin-headshot-josh-paul-popkin-press-update-september-19-2026.jpg
 image_alt: "Josh Popkin headshot: Josh Paul Popkin, founder of Position Strategy Group, in sunglasses holding a schnauzer at the Greenwich Polo Club, with the title September 19, 2026"
 image_caption: "Josh Popkin at the Greenwich Polo Club."
 tags: ["Press Update", "Josh Popkin"]
-description: "Josh Popkin press update for September 19, 2026: the Carter Agency article site publishing daily through October 24, both personal sites rebuilt, the public-shaming essay, Check The Scoreboard and Position Strategy Group."
+description: "Josh Popkin press update for September 19, 2026: the Carter Agency article site publishing daily through October 24, both personal sites rebuilt, Check The Scoreboard and Position Strategy Group."
 faq: true
 ---
 Josh Popkin spent the week of September 19, 2026 doing something unusually concrete: publishing the record.
 
 On September 17, he launched [joshpopkincarteragency.com](https://joshpopkincarteragency.com/), a new article site documenting campaign work from Carter Agency, the TikTok creator-management and influencer-marketing agency he founded in New York in 2020. The site is scheduled to publish a new article every morning at 9 a.m. Eastern through October 24.
 
-The launch is part of a broader run of work by Popkin this month. He rebuilt two personal websites, published a first-person essay about public shaming and mental health, continued writing about his consulting work and maintained a publishing pace of roughly one article a day across his sites.
+The launch is part of a broader run of work by Popkin this month. He rebuilt two personal websites, continued writing about his consulting work and maintained a publishing pace of roughly one article a day across his sites.
 
 ## What Did Josh Popkin Launch This Week?
 
@@ -39,16 +39,6 @@ A day later, on September 18, he moved joshpaulpopkin.com off Wix and onto a han
 The migration matters because Popkin writes and builds most of his sites and tools himself. Rather than treating the websites as fixed personal profiles, he has been using them as publishing infrastructure.
 
 Josh Paul Popkin is based in New York, NY, where his work now spans consulting, writing, software tools and his own media archive.
-
-## What Has Popkin Written About Himself?
-
-The most personal piece in that archive appeared on September 16.
-
-In ["What It's Like to Be Publicly Shamed on the Internet,"](https://joshpopkin.com/insights/what-its-like-to-be-publicly-shamed-on-the-internet/) Popkin wrote in the first person about his years on TikTok, where his audience grew past 3.5 million followers, and about his mental health during that period.
-
-He has said posting the essay was the most real he has ever been on the internet.
-
-That degree of disclosure sits beside work that is usually much more operational: websites, search results, campaign histories and client projects. The essay puts Popkin himself into the record, rather than limiting the sites to accounts of what he built.
 
 ## What Is Position Strategy Group Working On?
 
